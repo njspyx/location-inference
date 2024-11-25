@@ -1,0 +1,1603 @@
+filename,city_name,lat,lng,heading,pitch,fov,radius,country
+imgs_final_v1/0.jpg,Geelong,-38.14890723,144.3486681,343,0,90,500,Australia
+imgs_final_v1/1.jpg,Townsville,-19.24927291,146.8170894,51,0,90,500,Australia
+imgs_final_v1/2.jpg,Tauranga,-37.68399877,176.1672899,185,0,90,500,New Zealand
+imgs_final_v1/3.jpg,Cairns,-16.91927455,145.7786788,341,0,90,500,Australia
+imgs_final_v1/4.jpg,Darwin,-12.43770009,130.8403658,73,0,90,500,Australia
+imgs_final_v1/5.jpg,Sale,53.4246509,-2.323413291,114,0,90,500,United Kingdom
+imgs_final_v1/6.jpg,Lincoln,53.22967219,-0.539884615,181,0,90,500,United Kingdom
+imgs_final_v1/7.jpg,Maina,13.46777719,144.7332082,358,0,90,500,Guam
+imgs_final_v1/8.jpg,Ballarat,-37.55962733,143.847606,152,0,90,500,Australia
+imgs_final_v1/9.jpg,Toowoomba,-27.56587637,151.9505076,249,0,90,500,Australia
+imgs_final_v1/10.jpg,Lower Hutt,-41.2170766,174.918606,337,0,90,500,New Zealand
+imgs_final_v1/11.jpg,Bendigo,-36.74979553,144.2675685,201,0,90,500,Australia
+imgs_final_v1/12.jpg,Mandurah,-32.53033289,115.7229194,106,0,90,500,Australia
+imgs_final_v1/13.jpg,Albany,31.57698511,-84.1757401,270,0,90,500,United States
+imgs_final_v1/14.jpg,Launceston,-41.44219184,147.1456988,351,0,90,500,Australia
+imgs_final_v1/15.jpg,Somerville,42.39028565,-71.10104508,191,0,90,500,United States
+imgs_final_v1/16.jpg,Melton,-37.68194825,144.5832674,47,0,90,500,Australia
+imgs_final_v1/17.jpg,Palmerston North,-40.35576709,175.6101975,68,0,90,500,New Zealand
+imgs_final_v1/18.jpg,Tamworth,52.63151485,-1.694522796,308,0,90,500,United Kingdom
+imgs_final_v1/19.jpg,Mackay,-21.14073462,149.1852523,31,0,90,500,Australia
+imgs_final_v1/20.jpg,Bunbury,-33.32714614,115.6368429,106,0,90,500,Australia
+imgs_final_v1/21.jpg,Bundaberg,-24.86548648,152.3480314,25,0,90,500,Australia
+imgs_final_v1/22.jpg,Queenstown,-31.9006939,26.88340694,263,0,90,500,South Africa
+imgs_final_v1/23.jpg,Torquay,50.47028393,-3.528402543,274,0,90,500,United Kingdom
+imgs_final_v1/24.jpg,Rockhampton,-23.37723663,150.5124084,262,0,90,500,Australia
+imgs_final_v1/25.jpg,Napier,-39.48981749,176.9164108,149,0,90,500,New Zealand
+imgs_final_v1/26.jpg,Hervey Bay,-25.29088526,152.8413489,354,0,90,500,Australia
+imgs_final_v1/27.jpg,New Plymouth,-39.05746566,174.0734731,289,0,90,500,New Zealand
+imgs_final_v1/28.jpg,Albany,44.62770172,-123.0952779,203,0,90,500,United States
+imgs_final_v1/29.jpg,Porirua,-41.13339317,174.850704,175,0,90,500,New Zealand
+imgs_final_v1/30.jpg,Rotorua,-38.13883467,176.2508655,309,0,90,500,New Zealand
+imgs_final_v1/31.jpg,Horsham,51.06186048,-0.32329573,199,0,90,500,United Kingdom
+imgs_final_v1/32.jpg,Whangarei,-35.72512181,174.3231317,232,0,90,500,New Zealand
+imgs_final_v1/33.jpg,Lincoln,38.87849613,-121.2947096,197,0,90,500,United Kingdom
+imgs_final_v1/34.jpg,Manolo Fortich,8.366615883,124.8661063,119,0,90,500,Philippines
+imgs_final_v1/35.jpg,Tekkeköy,41.21361797,36.45587271,15,0,90,500,Turkey
+imgs_final_v1/36.jpg,Bafra,41.57309352,35.91341378,345,0,90,500,Turkey
+imgs_final_v1/37.jpg,M’lang,6.948647448,124.8799595,77,0,90,500,Philippines
+imgs_final_v1/38.jpg,Iga,34.76704826,136.1335103,338,0,90,500,Japan
+imgs_final_v1/39.jpg,Kiryū,36.40460221,139.4971764,296,0,90,500,Japan
+imgs_final_v1/40.jpg,Mooka,36.43972142,140.0121856,142,0,90,500,Japan
+imgs_final_v1/41.jpg,Douliu,23.7082942,120.5441684,221,0,90,500,Taiwan
+imgs_final_v1/42.jpg,Nantou,23.91654225,120.6826733,33,0,90,500,Taiwan
+imgs_final_v1/43.jpg,Komatsu,36.40735032,136.446578,3,0,90,500,Japan
+imgs_final_v1/44.jpg,Monkayo,7.823103864,126.0524158,28,0,90,500,Philippines
+imgs_final_v1/45.jpg,Kazo,36.13187219,139.600305,48,0,90,500,Japan
+imgs_final_v1/46.jpg,Konan,35.00111189,136.0833469,113,0,90,500,Japan
+imgs_final_v1/47.jpg,Yilan,24.74950073,121.7510077,109,0,90,500,Taiwan
+imgs_final_v1/48.jpg,Phra Nakhon Si Ayutthaya,14.34875575,100.5599891,313,0,90,500,Thailand
+imgs_final_v1/49.jpg,Kiyose,35.78602852,139.5260701,224,0,90,500,Japan
+imgs_final_v1/50.jpg,San Mateo,16.88094267,121.5800784,23,0,90,500,Philippines
+imgs_final_v1/51.jpg,Pandi,14.87007402,120.9511899,172,0,90,500,Philippines
+imgs_final_v1/52.jpg,Gumaca,13.92140359,122.0998267,142,0,90,500,Philippines
+imgs_final_v1/53.jpg,Puttūr,13.45039358,79.55038545,6,0,90,500,India
+imgs_final_v1/54.jpg,San Fernando,10.17092483,123.7011739,145,0,90,500,Philippines
+imgs_final_v1/55.jpg,Bhīmavaram,16.54358005,81.52328155,43,0,90,500,India
+imgs_final_v1/56.jpg,Bontang,0.133940656,117.4995977,48,0,90,500,Indonesia
+imgs_final_v1/57.jpg,Kani,35.42612912,137.0607899,305,0,90,500,Japan
+imgs_final_v1/58.jpg,Kuwana,35.06764997,136.6823365,357,0,90,500,Japan
+imgs_final_v1/59.jpg,Iwakuni,34.1653248,132.2184239,191,0,90,500,Japan
+imgs_final_v1/60.jpg,Buluan,6.715132281,124.7869204,260,0,90,500,Philippines
+imgs_final_v1/61.jpg,Silivri,41.07349398,28.24925044,23,0,90,500,Turkey
+imgs_final_v1/62.jpg,Bago,10.53743908,122.8382139,247,0,90,500,Philippines
+imgs_final_v1/63.jpg,Alangalang,11.20456356,124.8477176,74,0,90,500,Philippines
+imgs_final_v1/64.jpg,Gloria,12.9719332,121.478946,113,0,90,500,Philippines
+imgs_final_v1/65.jpg,Eilat,29.5583069,34.95090091,216,0,90,500,Israel
+imgs_final_v1/66.jpg,Magalang,15.22068895,120.6689309,75,0,90,500,Philippines
+imgs_final_v1/67.jpg,Hatogaya-honchō,35.83268977,139.7348371,122,0,90,500,Japan
+imgs_final_v1/68.jpg,Muroran,42.31658535,140.9675327,147,0,90,500,Japan
+imgs_final_v1/69.jpg,Alaşehir,38.34879454,28.51643824,92,0,90,500,Turkey
+imgs_final_v1/70.jpg,Dalaguete,9.759643709,123.5347031,102,0,90,500,Philippines
+imgs_final_v1/71.jpg,Bodhan,18.66868061,77.90056429,138,0,90,500,India
+imgs_final_v1/72.jpg,Fukutsu,33.76643489,130.4850411,148,0,90,500,Japan
+imgs_final_v1/73.jpg,Al ‘Aqabah,29.53192535,35.00447273,148,0,90,500,Jordan
+imgs_final_v1/74.jpg,San Isidro,15.30852552,120.9062241,213,0,90,500,Philippines
+imgs_final_v1/75.jpg,Virac,13.58000371,124.2294412,208,0,90,500,Philippines
+imgs_final_v1/76.jpg,Naga,10.21976238,123.74925,313,0,90,500,Philippines
+imgs_final_v1/77.jpg,Tokmok,42.83213655,75.28210448,345,0,90,500,Kyrgyzstan
+imgs_final_v1/78.jpg,Wao,7.640184745,124.7269056,5,0,90,500,Philippines
+imgs_final_v1/79.jpg,Kōenchō,43.80210802,143.8938632,106,0,90,500,Japan
+imgs_final_v1/80.jpg,Jaunpur,25.72918189,82.67898109,356,0,90,500,India
+imgs_final_v1/81.jpg,Barotac Nuevo,10.89990548,122.7001442,265,0,90,500,Philippines
+imgs_final_v1/82.jpg,Toride,35.91211952,140.0496716,184,0,90,500,Japan
+imgs_final_v1/83.jpg,Kiyosu,35.19915924,136.8520472,12,0,90,500,Japan
+imgs_final_v1/84.jpg,Baras,14.51992022,121.2685713,138,0,90,500,Philippines
+imgs_final_v1/85.jpg,Calapan,13.41434638,121.180623,358,0,90,500,Philippines
+imgs_final_v1/86.jpg,Pikit,7.051438839,124.6702086,269,0,90,500,Philippines
+imgs_final_v1/87.jpg,Kōka,34.96651083,136.1680576,309,0,90,500,Japan
+imgs_final_v1/88.jpg,Naguilian,16.52918808,120.3991272,17,0,90,500,Philippines
+imgs_final_v1/89.jpg,Onomichi,34.41722876,133.1999443,279,0,90,500,Japan
+imgs_final_v1/90.jpg,Tsuruoka,38.7266777,139.8273345,16,0,90,500,Japan
+imgs_final_v1/91.jpg,Ubud,-8.507725034,115.2627149,129,0,90,500,Indonesia
+imgs_final_v1/92.jpg,Catarman,12.49866078,124.6336189,170,0,90,500,Philippines
+imgs_final_v1/93.jpg,Rahat,31.3939379,34.75434035,306,0,90,500,Israel
+imgs_final_v1/94.jpg,Kabacan,7.11969962,124.821484,195,0,90,500,Philippines
+imgs_final_v1/95.jpg,Blitar,-8.099819908,112.1513747,58,0,90,500,Indonesia
+imgs_final_v1/96.jpg,Lantapan,7.998797838,125.023338,179,0,90,500,Philippines
+imgs_final_v1/97.jpg,Shillong,25.58154581,91.89421309,146,0,90,500,India
+imgs_final_v1/98.jpg,Kesennuma,38.90719185,141.5699019,308,0,90,500,Japan
+imgs_final_v1/99.jpg,Niksar,40.59187836,36.94973963,291,0,90,500,Turkey
+imgs_final_v1/100.jpg,Bade,24.95668493,121.299112,268,0,90,500,Taiwan
+imgs_final_v1/101.jpg,Niihama,33.96816135,133.2837658,147,0,90,500,Japan
+imgs_final_v1/102.jpg,Binmaley,16.03113504,120.2692371,161,0,90,500,Philippines
+imgs_final_v1/103.jpg,Palopo,-2.998997521,120.201189,156,0,90,500,Indonesia
+imgs_final_v1/104.jpg,Opol,8.520693707,124.5691741,237,0,90,500,Philippines
+imgs_final_v1/105.jpg,San Andres,14.57396102,121.0032371,103,0,90,500,Philippines
+imgs_final_v1/106.jpg,Kratie,12.48016856,106.03149,136,0,90,500,Cambodia
+imgs_final_v1/107.jpg,Upi,7.009794504,124.163407,34,0,90,500,Philippines
+imgs_final_v1/108.jpg,Buhi,13.43472499,123.518021,319,0,90,500,Philippines
+imgs_final_v1/109.jpg,Solana,17.65265848,121.6908626,0,0,90,500,Philippines
+imgs_final_v1/110.jpg,Tigbauan,10.67450244,122.3771858,127,0,90,500,Philippines
+imgs_final_v1/111.jpg,Matsubara,34.5827554,135.5488005,60,0,90,500,Japan
+imgs_final_v1/112.jpg,Urasoe,26.24510793,127.72262,210,0,90,500,Japan
+imgs_final_v1/113.jpg,Lüleburgaz,41.40691045,27.35719396,37,0,90,500,Turkey
+imgs_final_v1/114.jpg,Ceyhan,37.027786,35.81351962,201,0,90,500,Turkey
+imgs_final_v1/115.jpg,Mobara,35.42744652,140.2872663,62,0,90,500,Japan
+imgs_final_v1/116.jpg,Bené Beraq,32.08344553,34.83411288,46,0,90,500,Israel
+imgs_final_v1/117.jpg,Fujimi,35.85587062,139.5497159,110,0,90,500,Japan
+imgs_final_v1/118.jpg,Bato,13.35634906,123.3674413,188,0,90,500,Philippines
+imgs_final_v1/119.jpg,Ishikari,43.16619421,141.3148908,176,0,90,500,Japan
+imgs_final_v1/120.jpg,Kyōtanabe,34.81461725,135.7679829,137,0,90,500,Japan
+imgs_final_v1/121.jpg,San Andrés,12.58370499,-81.70008286,198,0,90,500,Colombia
+imgs_final_v1/122.jpg,Natori-shi,38.17128138,140.8919844,27,0,90,500,Japan
+imgs_final_v1/123.jpg,Kashiwara,34.51570295,135.8004596,340,0,90,500,Japan
+imgs_final_v1/124.jpg,San Juan,14.60409289,121.0310674,99,0,90,500,Philippines
+imgs_final_v1/125.jpg,Maramag,7.763953556,125.0045748,189,0,90,500,Philippines
+imgs_final_v1/126.jpg,Settsu,34.77777819,135.5638195,140,0,90,500,Japan
+imgs_final_v1/127.jpg,Giresun,40.91526738,38.39084387,66,0,90,500,Turkey
+imgs_final_v1/128.jpg,Ponnūru,16.06620022,80.56579424,77,0,90,500,India
+imgs_final_v1/129.jpg,Carcar,10.12035335,123.6307941,320,0,90,500,Philippines
+imgs_final_v1/130.jpg,Caramoan,13.77041764,123.8625283,237,0,90,500,Philippines
+imgs_final_v1/131.jpg,Tsuruga,35.64405418,136.0544866,109,0,90,500,Japan
+imgs_final_v1/132.jpg,Plaridel,14.88640166,120.857662,20,0,90,500,Philippines
+imgs_final_v1/133.jpg,Higashi-Matsuyama,36.04243172,139.3986174,315,0,90,500,Japan
+imgs_final_v1/134.jpg,Jōsō,36.02300549,139.9947213,275,0,90,500,Japan
+imgs_final_v1/135.jpg,Mitoyo,34.18241454,133.7139776,208,0,90,500,Japan
+imgs_final_v1/136.jpg,Bukittinggi,-0.305148165,100.3706238,74,0,90,500,Indonesia
+imgs_final_v1/137.jpg,Polatlı,39.583371,32.14742769,107,0,90,500,Turkey
+imgs_final_v1/138.jpg,Fujimino,35.88039293,139.5203315,205,0,90,500,Japan
+imgs_final_v1/139.jpg,Hassan,13.01190128,76.06951355,293,0,90,500,India
+imgs_final_v1/140.jpg,Samut Sakhon,13.54797689,100.2769937,194,0,90,500,Thailand
+imgs_final_v1/141.jpg,Mulanay,13.52182549,122.405535,229,0,90,500,Philippines
+imgs_final_v1/142.jpg,El Salvador,8.568678731,124.5205085,140,0,90,500,Philippines
+imgs_final_v1/143.jpg,Recife,-8.049064387,-34.89876197,81,0,90,500,Brazil
+imgs_final_v1/144.jpg,Goiânia,-16.66685903,-49.24905663,265,0,90,500,Brazil
+imgs_final_v1/145.jpg,Porto Alegre,-30.03283061,-51.23128859,284,0,90,500,Brazil
+imgs_final_v1/146.jpg,Barranquilla,10.98326903,-74.80204586,61,0,90,500,Colombia
+imgs_final_v1/147.jpg,Guarulhos,-23.46225907,-46.53280965,175,0,90,500,Brazil
+imgs_final_v1/148.jpg,Belém,-1.455405992,-48.50489883,59,0,90,500,Brazil
+imgs_final_v1/149.jpg,Porto,41.16206771,-8.621401551,153,0,90,500,Portugal
+imgs_final_v1/150.jpg,Rosario,-32.95808482,-60.63908026,146,0,90,500,Argentina
+imgs_final_v1/151.jpg,Campinas,-22.90615936,-47.06010276,226,0,90,500,Brazil
+imgs_final_v1/152.jpg,Arequipa,-16.40004488,-71.53217943,34,0,90,500,Peru
+imgs_final_v1/153.jpg,Maceió,-9.664788998,-35.73494347,262,0,90,500,Brazil
+imgs_final_v1/154.jpg,Teresina,-5.095011453,-42.80383234,102,0,90,500,Brazil
+imgs_final_v1/155.jpg,Cartagena,10.40027235,-75.50084068,340,0,90,500,Colombia
+imgs_final_v1/156.jpg,Santiago del Estero,-27.78194408,-64.26600409,277,0,90,500,Argentina
+imgs_final_v1/157.jpg,Campo Grande,-20.48313934,-54.61609597,338,0,90,500,Brazil
+imgs_final_v1/158.jpg,São Gonçalo,-22.82672633,-43.05473563,216,0,90,500,Brazil
+imgs_final_v1/159.jpg,Bucaramanga,7.133160838,-73.00139392,171,0,90,500,Colombia
+imgs_final_v1/160.jpg,Cochabamba,-17.38936924,-66.15953117,238,0,90,500,Bolivia
+imgs_final_v1/161.jpg,Iguaçu,-22.73929512,-43.4685051,113,0,90,500,Brazil
+imgs_final_v1/162.jpg,João Pessoa,-7.120459268,-34.88092043,236,0,90,500,Brazil
+imgs_final_v1/163.jpg,São Bernardo do Campo,-23.69886992,-46.55024925,9,0,90,500,Brazil
+imgs_final_v1/164.jpg,Cúcuta,7.893533606,-72.50278705,306,0,90,500,Colombia
+imgs_final_v1/165.jpg,Natal,-5.783913092,-35.19937227,273,0,90,500,Brazil
+imgs_final_v1/166.jpg,Santo André,-23.65766604,-46.53402405,194,0,90,500,Brazil
+imgs_final_v1/167.jpg,Osasco,-23.53418216,-46.79194687,203,0,90,500,Brazil
+imgs_final_v1/168.jpg,Comodoro Rivadavia,-45.86595611,-67.48105838,184,0,90,500,Argentina
+imgs_final_v1/169.jpg,Sorocaba,-23.50232813,-47.45856893,328,0,90,500,Brazil
+imgs_final_v1/170.jpg,Concepción,-36.82889241,-73.0518127,331,0,90,500,Chile
+imgs_final_v1/171.jpg,Uberlândia,-18.9245779,-48.28836031,180,0,90,500,Brazil
+imgs_final_v1/172.jpg,Jaboatão,-8.179523993,-35.00244505,332,0,90,500,Brazil
+imgs_final_v1/173.jpg,Ribeirão Prêto,-21.17719643,-47.806499,126,0,90,500,Brazil
+imgs_final_v1/174.jpg,São José dos Campos,-23.18011526,-45.88757794,332,0,90,500,Brazil
+imgs_final_v1/175.jpg,Guadalupe,25.676773,-100.2597693,303,0,90,500,Mexico
+imgs_final_v1/176.jpg,Mar del Plata,-38.00044401,-57.54923448,120,0,90,500,Argentina
+imgs_final_v1/177.jpg,Soledad,10.91704151,-74.74966438,204,0,90,500,Colombia
+imgs_final_v1/178.jpg,Aracaju,-10.91562565,-37.05041633,209,0,90,500,Brazil
+imgs_final_v1/179.jpg,Villavicencio,4.151298602,-73.63376029,55,0,90,500,Colombia
+imgs_final_v1/180.jpg,Cuiabá,-15.59728502,-56.09724311,296,0,90,500,Brazil
+imgs_final_v1/181.jpg,Contagem,-19.93269497,-44.05366865,166,0,90,500,Brazil
+imgs_final_v1/182.jpg,Joinvile,-26.32025062,-48.84513918,25,0,90,500,Brazil
+imgs_final_v1/183.jpg,Feira de Santana,-12.24998354,-38.95131188,335,0,90,500,Brazil
+imgs_final_v1/184.jpg,San Miguel de Tucumán,-26.81547289,-65.21639141,216,0,90,500,Argentina
+imgs_final_v1/185.jpg,Pereira,4.815524751,-75.69548938,172,0,90,500,Colombia
+imgs_final_v1/186.jpg,Puente Alto,-33.61606439,-70.56835394,320,0,90,500,Chile
+imgs_final_v1/187.jpg,Macau,22.20199481,113.5454219,104,0,90,500,Macau
+imgs_final_v1/188.jpg,Bello,6.33322528,-75.5660358,289,0,90,500,Colombia
+imgs_final_v1/189.jpg,Londrina,-23.31010851,-51.1625545,187,0,90,500,Brazil
+imgs_final_v1/190.jpg,Chiclayo,-6.763070245,-79.83624619,349,0,90,500,Peru
+imgs_final_v1/191.jpg,Palma,39.56776973,2.65023024,183,0,90,500,Spain
+imgs_final_v1/192.jpg,Valledupar,10.4823132,-73.24915137,174,0,90,500,Colombia
+imgs_final_v1/193.jpg,Ibagué,4.433023993,-75.23479703,344,0,90,500,Colombia
+imgs_final_v1/194.jpg,Juiz de Fora,-21.76246507,-43.34866324,30,0,90,500,Brazil
+imgs_final_v1/195.jpg,Santa Cruz,28.46556243,-16.2510782,106,0,90,500,Spain
+imgs_final_v1/196.jpg,Florianópolis,-27.61224337,-48.48535684,83,0,90,500,Brazil
+imgs_final_v1/197.jpg,Salta,-24.78334211,-65.41582722,129,0,90,500,Argentina
+imgs_final_v1/198.jpg,Montería,8.750199357,-75.88331562,86,0,90,500,Colombia
+imgs_final_v1/199.jpg,Soacha,4.587760165,-74.22174729,62,0,90,500,Colombia
+imgs_final_v1/200.jpg,Maipú,-33.51539721,-70.76661607,138,0,90,500,Chile
+imgs_final_v1/201.jpg,Serra,-20.13024806,-40.30802243,0,0,90,500,Brazil
+imgs_final_v1/202.jpg,Santa Marta,11.24236888,-74.20566969,297,0,90,500,Colombia
+imgs_final_v1/203.jpg,Macapá,0.031893519,-51.05067655,186,0,90,500,Brazil
+imgs_final_v1/204.jpg,Campos,-21.75391387,-41.32305065,289,0,90,500,Brazil
+imgs_final_v1/205.jpg,Dakar,14.69225764,-17.44754499,155,0,90,500,Senegal
+imgs_final_v1/206.jpg,Soweto,-26.26909229,27.85898959,18,0,90,500,South Africa
+imgs_final_v1/207.jpg,Mombasa,-4.048910237,39.66634825,67,0,90,500,Kenya
+imgs_final_v1/208.jpg,Pikine,14.7506662,-17.40086427,26,0,90,500,Senegal
+imgs_final_v1/209.jpg,Aba,5.116367523,7.365221429,24,0,90,500,Nigeria
+imgs_final_v1/210.jpg,Benin City,6.332268997,5.623373608,177,0,90,500,Nigeria
+imgs_final_v1/211.jpg,Ikare,7.516340203,5.74967953,128,0,90,500,Nigeria
+imgs_final_v1/212.jpg,Tamale,9.406650075,-0.854068456,284,0,90,500,Ghana
+imgs_final_v1/213.jpg,Ogbomoso,8.13305873,4.24892621,99,0,90,500,Nigeria
+imgs_final_v1/214.jpg,Owerri,5.484831889,7.034033352,232,0,90,500,Nigeria
+imgs_final_v1/215.jpg,Abeokuta,7.161395816,3.348685202,236,0,90,500,Nigeria
+imgs_final_v1/216.jpg,Ikeja,6.599388378,3.349006146,163,0,90,500,Nigeria
+imgs_final_v1/217.jpg,Akure,7.249323858,5.194716742,37,0,90,500,Nigeria
+imgs_final_v1/218.jpg,Ilorin,8.498735062,4.550365053,191,0,90,500,Nigeria
+imgs_final_v1/219.jpg,Pietermaritzburg,-29.61782539,30.38239545,249,0,90,500,South Africa
+imgs_final_v1/220.jpg,Durban,-29.88194985,31.05081641,171,0,90,500,South Africa
+imgs_final_v1/221.jpg,Kaduna,10.51597039,7.433788271,150,0,90,500,Nigeria
+imgs_final_v1/222.jpg,Pretoria,-25.74564313,28.18694489,71,0,90,500,South Africa
+imgs_final_v1/223.jpg,Osogbo,7.766257747,4.567371784,312,0,90,500,Nigeria
+imgs_final_v1/224.jpg,Enugu,6.452097745,7.510178257,64,0,90,500,Nigeria
+imgs_final_v1/225.jpg,Bauchi,10.31429402,9.844494875,200,0,90,500,Nigeria
+imgs_final_v1/226.jpg,Lokoja,7.800429503,6.743749451,177,0,90,500,Nigeria
+imgs_final_v1/227.jpg,Jalingo,8.900156478,11.36668623,22,0,90,500,Nigeria
+imgs_final_v1/228.jpg,Jos,9.915718709,8.890817912,125,0,90,500,Nigeria
+imgs_final_v1/229.jpg,Tunis,36.80705358,10.18274151,189,0,90,500,Tunisia
+imgs_final_v1/230.jpg,Nakuru,-0.299950548,36.06726195,177,0,90,500,Kenya
+imgs_final_v1/231.jpg,Uyo,5.034251756,7.927400071,217,0,90,500,Nigeria
+imgs_final_v1/232.jpg,Rustenburg,-25.66675295,27.24240367,268,0,90,500,South Africa
+imgs_final_v1/233.jpg,Touba,14.86748705,-15.88422079,78,0,90,500,Senegal
+imgs_final_v1/234.jpg,Ile-Ife,7.465926134,4.566122935,157,0,90,500,Nigeria
+imgs_final_v1/235.jpg,Auckland,-36.83914767,174.7404995,263,0,90,500,New Zealand
+imgs_final_v1/236.jpg,Adelaide,-34.92837334,138.5989928,154,0,90,500,Australia
+imgs_final_v1/237.jpg,Gold Coast,-28.01634978,153.3989448,0,0,90,500,Australia
+imgs_final_v1/238.jpg,Albany,42.66728775,-73.79855528,123,0,90,500,United States
+imgs_final_v1/239.jpg,Delhi,28.60982955,77.23140837,108,0,90,500,India
+imgs_final_v1/240.jpg,Mexico City,19.43304897,-99.13295655,267,0,90,500,Mexico
+imgs_final_v1/241.jpg,New York,40.69401046,-73.92423165,274,0,90,500,United States
+imgs_final_v1/242.jpg,Moscow,55.75639654,37.61857182,139,0,90,500,Russia
+imgs_final_v1/243.jpg,Buenos Aires,-34.60467395,-58.38144818,285,0,90,500,Argentina
+imgs_final_v1/244.jpg,Los Angeles,34.11368175,-118.4077557,284,0,90,500,United States
+imgs_final_v1/245.jpg,London,51.50714861,-0.126829157,173,0,90,500,United Kingdom
+imgs_final_v1/246.jpg,Paris,48.85704948,2.354433489,238,0,90,500,France
+imgs_final_v1/247.jpg,Lima,-12.05897583,-77.03786703,98,0,90,500,Peru
+imgs_final_v1/248.jpg,Chicago,41.83702713,-87.68653848,146,0,90,500,United States
+imgs_final_v1/249.jpg,Bogotá,4.71127406,-74.07313142,167,0,90,500,Colombia
+imgs_final_v1/250.jpg,Santiago,-33.43798554,-70.65134853,160,0,90,500,Chile
+imgs_final_v1/251.jpg,Miami,25.78293805,-80.21064064,210,0,90,500,United States
+imgs_final_v1/252.jpg,Dallas,32.79436162,-96.76775897,33,0,90,500,United States
+imgs_final_v1/253.jpg,Philadelphia,40.00783256,-75.13500181,9,0,90,500,United States
+imgs_final_v1/254.jpg,Toronto,43.74234692,-79.37517792,147,0,90,500,Canada
+imgs_final_v1/255.jpg,Monterrey,25.66693447,-100.2998966,141,0,90,500,Mexico
+imgs_final_v1/256.jpg,Atlanta,33.76182465,-84.42118601,283,0,90,500,United States
+imgs_final_v1/257.jpg,Washington,38.90335948,-77.01728755,67,0,90,500,United States
+imgs_final_v1/258.jpg,Melbourne,-37.81328879,144.9645757,1,0,90,500,Australia
+imgs_final_v1/259.jpg,Berlin,52.52080518,13.40530682,57,0,90,500,Germany
+imgs_final_v1/260.jpg,Boston,42.31791308,-71.08361947,162,0,90,500,United States
+imgs_final_v1/261.jpg,Phoenix,33.57357798,-112.0887786,295,0,90,500,United States
+imgs_final_v1/262.jpg,Detroit,42.3846906,-83.10191163,108,0,90,500,United States
+imgs_final_v1/263.jpg,Montréal,45.50963575,-73.56064424,17,0,90,500,Canada
+imgs_final_v1/264.jpg,Seattle,47.62203,-122.3254906,162,0,90,500,United States
+imgs_final_v1/265.jpg,Athens,37.98521404,23.72955129,88,0,90,500,Greece
+imgs_final_v1/266.jpg,San Diego,32.83176455,-117.122175,11,0,90,500,United States
+imgs_final_v1/267.jpg,Guatemala City,14.61328688,-90.53371266,319,0,90,500,Guatemala
+imgs_final_v1/268.jpg,Birmingham,52.48010649,-1.900141591,188,0,90,500,United Kingdom
+imgs_final_v1/269.jpg,Minneapolis,44.96280155,-93.26734106,191,0,90,500,United States
+imgs_final_v1/270.jpg,Tampa,27.99471505,-82.44424304,190,0,90,500,United States
+imgs_final_v1/271.jpg,Stuttgart,48.77820103,9.180795401,240,0,90,500,Germany
+imgs_final_v1/272.jpg,Rome,41.89297529,12.48465496,118,0,90,500,Italy
+imgs_final_v1/273.jpg,Brooklyn,40.65036355,-73.95066852,341,0,90,500,United States
+imgs_final_v1/274.jpg,Denver,39.76255673,-104.876105,69,0,90,500,United States
+imgs_final_v1/275.jpg,Hamburg,53.55022776,9.999438767,148,0,90,500,Germany
+imgs_final_v1/276.jpg,Vancouver,49.25070474,-123.1015181,252,0,90,500,Canada
+imgs_final_v1/277.jpg,Salvador,-12.97542468,-38.47574797,345,0,90,500,Brazil
+imgs_final_v1/278.jpg,Queens,40.74830301,-73.797479,119,0,90,500,United States
+imgs_final_v1/279.jpg,Riverside,33.93743601,-117.3962975,60,0,90,500,United States
+imgs_final_v1/280.jpg,Las Vegas,36.23436063,-115.2667682,151,0,90,500,United States
+imgs_final_v1/281.jpg,Vienna,48.20705644,16.37132784,119,0,90,500,Austria
+imgs_final_v1/282.jpg,Baltimore,39.30512918,-76.61309166,347,0,90,500,United States
+imgs_final_v1/283.jpg,St. Louis,38.63530607,-90.2445542,155,0,90,500,United States
+imgs_final_v1/284.jpg,Portland,45.53729552,-122.6505288,203,0,90,500,United States
+imgs_final_v1/285.jpg,San Antonio,29.46462344,-98.52362127,130,0,90,500,United States
+imgs_final_v1/286.jpg,Tijuana,32.52526213,-117.0350691,115,0,90,500,Mexico
+imgs_final_v1/287.jpg,Ecatepec,19.61029368,-99.05953603,293,0,90,500,Mexico
+imgs_final_v1/288.jpg,Austin,30.30073709,-97.75328008,311,0,90,500,United States
+imgs_final_v1/289.jpg,Orlando,28.47780646,-81.33546757,221,0,90,500,United States
+imgs_final_v1/290.jpg,Warsaw,52.22973813,21.00869934,264,0,90,500,Poland
+imgs_final_v1/291.jpg,Pittsburgh,40.43863763,-79.97689338,87,0,90,500,United States
+imgs_final_v1/292.jpg,Indianapolis,39.7776235,-86.14602456,181,0,90,500,United States
+imgs_final_v1/293.jpg,Montevideo,-34.88266705,-56.18304049,83,0,90,500,Uruguay
+imgs_final_v1/294.jpg,Manhattan,40.7831615,-73.96753606,248,0,90,500,United States
+imgs_final_v1/295.jpg,Cincinnati,39.14160447,-84.50684075,305,0,90,500,United States
+imgs_final_v1/296.jpg,Kansas City,39.12403736,-94.55341928,223,0,90,500,United States
+imgs_final_v1/297.jpg,Cleveland,41.47759172,-81.67940058,216,0,90,500,United States
+imgs_final_v1/298.jpg,León de los Aldama,21.11538419,-101.6837522,50,0,90,500,Mexico
+imgs_final_v1/299.jpg,Puebla,19.03396538,-98.18264737,151,0,90,500,Mexico
+imgs_final_v1/300.jpg,Columbus,39.98670601,-82.98428029,220,0,90,500,United States
+imgs_final_v1/301.jpg,Panama City,8.984512645,-79.51630725,18,0,90,500,Panama
+imgs_final_v1/302.jpg,Fano,43.83258959,13.01828478,136,0,90,500,Italy
+imgs_final_v1/303.jpg,Drancy,48.93072615,2.450003275,193,0,90,500,France
+imgs_final_v1/304.jpg,Horishni Plavni,49.01733699,33.66536732,165,0,90,500,Ukraine
+imgs_final_v1/305.jpg,Zaandam,52.4334883,4.833274436,270,0,90,500,Netherlands
+imgs_final_v1/306.jpg,Teramo,42.65934127,13.70287967,27,0,90,500,Italy
+imgs_final_v1/307.jpg,Kamensk-Ural’skiy,56.40081782,61.93474984,145,0,90,500,Russia
+imgs_final_v1/308.jpg,Borås,57.72170442,12.93914062,328,0,90,500,Sweden
+imgs_final_v1/309.jpg,Castellammare di Stabia,40.69401677,14.47997884,31,0,90,500,Italy
+imgs_final_v1/310.jpg,Uzhhorod,48.6237712,22.29602332,267,0,90,500,Ukraine
+imgs_final_v1/311.jpg,Nordre Fåle,59.74874485,10.8658083,225,0,90,500,Norway
+imgs_final_v1/312.jpg,Ravensburg,47.78296053,9.6098307,44,0,90,500,Germany
+imgs_final_v1/313.jpg,Pau,43.30147742,-0.370593864,268,0,90,500,France
+imgs_final_v1/314.jpg,Goslar,51.90809786,10.43092159,157,0,90,500,Germany
+imgs_final_v1/315.jpg,Breda,51.58819007,4.776984982,109,0,90,500,Netherlands
+imgs_final_v1/316.jpg,Fiumicino,41.7672583,12.23379687,167,0,90,500,Italy
+imgs_final_v1/317.jpg,Siracusa,37.07012049,15.2878467,27,0,90,500,Italy
+imgs_final_v1/318.jpg,Manresa,41.73052015,1.828078533,47,0,90,500,Spain
+imgs_final_v1/319.jpg,Suceava,47.65172891,26.25385397,310,0,90,500,Romania
+imgs_final_v1/320.jpg,Giurgiu,43.89958796,25.97487049,263,0,90,500,Romania
+imgs_final_v1/321.jpg,Genk,50.9679074,5.49971271,214,0,90,500,Belgium
+imgs_final_v1/322.jpg,Katwijk,52.19915183,4.415259918,297,0,90,500,Netherlands
+imgs_final_v1/323.jpg,Przemyśl,49.78280676,22.76501805,186,0,90,500,Poland
+imgs_final_v1/324.jpg,Trnava,48.37813119,17.58704971,82,0,90,500,Slovakia
+imgs_final_v1/325.jpg,Vyborg,60.71778126,28.76830483,19,0,90,500,Russia
+imgs_final_v1/326.jpg,Amadora,38.73318701,-9.232725094,339,0,90,500,Portugal
+imgs_final_v1/327.jpg,Quartu Sant’Elena,39.23268781,9.181842259,47,0,90,500,Italy
+imgs_final_v1/328.jpg,Euskirchen,50.65847194,6.793149447,320,0,90,500,Germany
+imgs_final_v1/329.jpg,Faenza,44.28565574,11.88449377,9,0,90,500,Italy
+imgs_final_v1/330.jpg,Grays,51.47456591,0.329202424,111,0,90,500,United Kingdom
+imgs_final_v1/331.jpg,Penafiel,41.20496442,-8.284771822,43,0,90,500,Portugal
+imgs_final_v1/332.jpg,Wilmington,39.74026166,-75.54277627,34,0,90,500,United States
+imgs_final_v1/333.jpg,Halmstad,56.6734656,12.85594754,293,0,90,500,Sweden
+imgs_final_v1/334.jpg,Noyabrsk,63.20098475,75.4520923,159,0,90,500,Russia
+imgs_final_v1/335.jpg,Düren,50.79906598,6.483616781,332,0,90,500,Germany
+imgs_final_v1/336.jpg,Ródos,36.44111323,28.22080418,125,0,90,500,Greece
+imgs_final_v1/337.jpg,Solnechnogorsk,56.182542,36.9820328,85,0,90,500,Russia
+imgs_final_v1/338.jpg,Dordrecht,51.79519287,4.679581976,221,0,90,500,Netherlands
+imgs_final_v1/339.jpg,Chaykovskiy,56.766502,54.14768047,127,0,90,500,Russia
+imgs_final_v1/340.jpg,Hilden,51.17080824,6.939987446,286,0,90,500,Germany
+imgs_final_v1/341.jpg,Lünen,51.6165181,7.516896541,310,0,90,500,Germany
+imgs_final_v1/342.jpg,Marl,51.66778927,7.114927236,125,0,90,500,Germany
+imgs_final_v1/343.jpg,Leeuwarden,53.199584,5.783218085,61,0,90,500,Netherlands
+imgs_final_v1/344.jpg,Darmstadt,49.87177716,8.651170483,246,0,90,500,Germany
+imgs_final_v1/345.jpg,Alcalá de Guadaira,37.33253677,-5.850703052,356,0,90,500,Spain
+imgs_final_v1/346.jpg,Fréjus,43.43250322,6.735221943,289,0,90,500,France
+imgs_final_v1/347.jpg,Novocheboksarsk,56.1318076,47.50023977,78,0,90,500,Russia
+imgs_final_v1/348.jpg,Sibay,52.69973474,58.64818776,300,0,90,500,Russia
+imgs_final_v1/349.jpg,Weston-super-Mare,51.34445539,-2.976829525,316,0,90,500,United Kingdom
+imgs_final_v1/350.jpg,Pyatigorsk,44.0498149,43.06516903,256,0,90,500,Russia
+imgs_final_v1/351.jpg,Guadalajara,40.63479074,-3.167802907,202,0,90,500,Spain
+imgs_final_v1/352.jpg,Deurne,51.2239523,4.46301828,77,0,90,500,Belgium
+imgs_final_v1/353.jpg,Batley,53.71579416,-1.637329406,33,0,90,500,United Kingdom
+imgs_final_v1/354.jpg,Split,43.509552,16.44131017,119,0,90,500,Croatia
+imgs_final_v1/355.jpg,Eastleigh,50.96737899,-1.351210514,239,0,90,500,United Kingdom
+imgs_final_v1/356.jpg,Trier,49.75587285,6.642366759,129,0,90,500,Germany
+imgs_final_v1/357.jpg,Jūrmala,56.96885305,23.77025617,225,0,90,500,Latvia
+imgs_final_v1/358.jpg,Ahlen,51.76425658,7.891343684,248,0,90,500,Germany
+imgs_final_v1/359.jpg,Mineral’nyye Vody,44.21716345,43.13274236,308,0,90,500,Russia
+imgs_final_v1/360.jpg,Podgorica,42.44190766,19.26099273,211,0,90,500,Montenegro
+imgs_final_v1/361.jpg,Bergheim,50.96648987,6.647702724,115,0,90,500,Germany
+imgs_final_v1/362.jpg,Shali,43.14877519,45.89966216,335,0,90,500,Russia
+imgs_final_v1/363.jpg,Garbsen,52.4193451,9.599777989,49,0,90,500,Germany
+imgs_final_v1/364.jpg,Kortrijk,50.82639217,3.267438192,175,0,90,500,Belgium
+imgs_final_v1/365.jpg,Rybnik,50.08357237,18.55092698,117,0,90,500,Poland
+imgs_final_v1/366.jpg,Collado-Villalba,40.63323303,-4.007300125,185,0,90,500,Spain
+imgs_final_v1/367.jpg,Lelystad,52.50018237,5.482318274,282,0,90,500,Netherlands
+imgs_final_v1/368.jpg,Doncaster,53.52339469,-1.133315731,59,0,90,500,United Kingdom
+imgs_final_v1/369.jpg,Ovar,40.86760792,-8.634811257,143,0,90,500,Portugal
+imgs_final_v1/370.jpg,Lucerne,47.05103944,8.299173287,31,0,90,500,Switzerland
+imgs_final_v1/371.jpg,Ussuriysk,43.79959389,131.9675172,241,0,90,500,Russia
+imgs_final_v1/372.jpg,Alphen aan den Rijn,52.13457164,4.665289358,13,0,90,500,Netherlands
+imgs_final_v1/373.jpg,Littlehampton,50.80856228,-0.539693725,335,0,90,500,United Kingdom
+imgs_final_v1/374.jpg,Gallarate,45.66575891,8.799150604,122,0,90,500,Italy
+imgs_final_v1/375.jpg,Kansk,56.1997843,95.71761251,8,0,90,500,Russia
+imgs_final_v1/376.jpg,Kuznetsk,53.11577908,46.59917908,117,0,90,500,Russia
+imgs_final_v1/377.jpg,Syzran,53.165736,48.46849526,246,0,90,500,Russia
+imgs_final_v1/378.jpg,Bāri,26.6310705,77.61932408,322,0,90,500,India
+imgs_final_v1/379.jpg,Alkmaar,52.63382114,4.748795181,27,0,90,500,Netherlands
+imgs_final_v1/380.jpg,Tübingen,48.51959655,9.054960373,8,0,90,500,Germany
+imgs_final_v1/381.jpg,Frankfurt (Oder),52.34248969,14.55342567,54,0,90,500,Germany
+imgs_final_v1/382.jpg,Deva,45.87826019,22.91321704,79,0,90,500,Romania
+imgs_final_v1/383.jpg,Gatchina,59.58361352,30.13079234,187,0,90,500,Russia
+imgs_final_v1/384.jpg,Włocławek,52.65947637,19.06604659,12,0,90,500,Poland
+imgs_final_v1/385.jpg,Mikhaylovsk,45.13347822,42.03224854,300,0,90,500,Russia
+imgs_final_v1/386.jpg,Voskresensk,55.31762106,38.70127737,29,0,90,500,Russia
+imgs_final_v1/387.jpg,Eger,47.89820054,20.37502803,3,0,90,500,Hungary
+imgs_final_v1/388.jpg,Satu Mare,47.78995399,22.89041254,300,0,90,500,Romania
+imgs_final_v1/389.jpg,Almetyevsk,54.89899651,52.30168521,21,0,90,500,Russia
+imgs_final_v1/390.jpg,Beveren,51.20061975,4.251632142,94,0,90,500,Belgium
+imgs_final_v1/391.jpg,Târgu Jiu,45.03353725,23.27370563,145,0,90,500,Romania
+imgs_final_v1/392.jpg,Guildford,51.23581031,-0.568085423,207,0,90,500,United Kingdom
+imgs_final_v1/393.jpg,Hoofddorp,52.30468653,4.691099073,132,0,90,500,Netherlands
+imgs_final_v1/394.jpg,Dunfermline,56.07297673,-3.438873909,72,0,90,500,United Kingdom
+imgs_final_v1/395.jpg,Salerno,40.68091156,14.75883939,313,0,90,500,Italy
+imgs_final_v1/396.jpg,Macclesfield,53.25060076,-2.128253971,99,0,90,500,United Kingdom
+imgs_final_v1/397.jpg,Yambol,42.48301761,26.49850289,226,0,90,500,Bulgaria
+imgs_final_v1/398.jpg,Royal Tunbridge Wells,51.13255329,0.261797183,16,0,90,500,United Kingdom
+imgs_final_v1/399.jpg,Urus-Martan,43.13248782,45.54954357,151,0,90,500,Russia
+imgs_final_v1/400.jpg,Sérres,41.08386973,23.55150699,171,0,90,500,Greece
+imgs_final_v1/401.jpg,Reutov,55.76225336,37.85511949,347,0,90,500,Russia
+imgs_final_v1/402.jpg,Kavála,40.93349115,24.4019116,13,0,90,500,Greece
+imgs_final_v1/403.jpg,Tobolsk,58.19925065,68.26546818,88,0,90,500,Russia
+imgs_final_v1/404.jpg,Champigny-sur-Marne,48.81633735,2.517472269,94,0,90,500,France
+imgs_final_v1/405.jpg,Durrës,41.31404957,19.4450134,104,0,90,500,Albania
+imgs_final_v1/406.jpg,Aix-en-Provence,43.5268393,5.445285215,312,0,90,500,France
+imgs_final_v1/407.jpg,San Remo,43.81729679,7.773285611,43,0,90,500,Italy
+imgs_final_v1/408.jpg,Braga,41.55094535,-8.420529416,269,0,90,500,Portugal
+imgs_final_v1/409.jpg,Hamm,51.66533413,7.817869374,223,0,90,500,Germany
+imgs_final_v1/410.jpg,Moortebeek,50.85511929,4.338278246,140,0,90,500,Belgium
+imgs_final_v1/411.jpg,Molina de Segura,38.05446748,-1.214604442,231,0,90,500,Spain
+imgs_final_v1/412.jpg,Santo Tirso,41.33376781,-8.465780226,315,0,90,500,Portugal
+imgs_final_v1/413.jpg,La Laguna,28.48648076,-16.31785633,89,0,90,500,Spain
+imgs_final_v1/414.jpg,Wałbrzych,50.76664618,16.28174723,186,0,90,500,Poland
+imgs_final_v1/415.jpg,Bayeux,-7.133498868,-34.93306969,203,0,90,500,Brazil
+imgs_final_v1/416.jpg,Ponta Delgada,37.74050615,-25.68046946,205,0,90,500,Portugal
+imgs_final_v1/417.jpg,Offenburg,48.46814879,7.932663213,317,0,90,500,Germany
+imgs_final_v1/418.jpg,Leverkusen,51.03369336,6.983418617,91,0,90,500,Germany
+imgs_final_v1/419.jpg,Örebro,59.27455256,15.20709841,298,0,90,500,Sweden
+imgs_final_v1/420.jpg,La Línea de la Concepción,36.16903483,-5.349359994,97,0,90,500,Spain
+imgs_final_v1/421.jpg,Valjevo,44.26614754,19.88414481,264,0,90,500,Serbia
+imgs_final_v1/422.jpg,Umán,20.88330532,-89.74857238,215,0,90,500,Mexico
+imgs_final_v1/423.jpg,Roquetas de Mar,36.76390353,-2.613189548,312,0,90,500,Spain
+imgs_final_v1/424.jpg,Blackburn,53.74731847,-2.484216012,317,0,90,500,United Kingdom
+imgs_final_v1/425.jpg,Slough,51.50927041,-0.589788737,338,0,90,500,United Kingdom
+imgs_final_v1/426.jpg,Passau,48.57542712,13.46305238,117,0,90,500,Germany
+imgs_final_v1/427.jpg,Vaasa,63.09968492,21.61637852,127,0,90,500,Finland
+imgs_final_v1/428.jpg,Aylesbury,51.81821035,-0.81132525,195,0,90,500,United Kingdom
+imgs_final_v1/429.jpg,Frechen,50.91724707,6.815386519,359,0,90,500,Germany
+imgs_final_v1/430.jpg,Sarapul,56.46752633,53.80171939,224,0,90,500,Russia
+imgs_final_v1/431.jpg,Houten,52.03286117,5.166505588,52,0,90,500,Netherlands
+imgs_final_v1/432.jpg,Borovichi,58.40117545,33.91564076,256,0,90,500,Russia
+imgs_final_v1/433.jpg,Maykop,44.59991067,40.08420357,175,0,90,500,Russia
+imgs_final_v1/434.jpg,Bytom,50.34908594,18.91764281,191,0,90,500,Poland
+imgs_final_v1/435.jpg,Zamora,41.49964125,-5.755567447,54,0,90,500,Spain
+imgs_final_v1/436.jpg,Pula,44.86932496,13.84456547,154,0,90,500,Croatia
+imgs_final_v1/437.jpg,Aalen,48.83337095,10.10136875,227,0,90,500,Germany
+imgs_final_v1/438.jpg,Woerden,52.08334883,4.883772212,127,0,90,500,Netherlands
+imgs_final_v1/439.jpg,Utrera,37.18185057,-5.765739021,7,0,90,500,Spain
+imgs_final_v1/440.jpg,Stargard Szczeciński,53.33397707,15.03475706,36,0,90,500,Poland
+imgs_final_v1/441.jpg,Wigan,53.54634526,-2.631593292,36,0,90,500,United Kingdom
+imgs_final_v1/442.jpg,Leiden,52.15982294,4.488640162,255,0,90,500,Netherlands
+imgs_final_v1/443.jpg,Kumanovo,42.1331088,21.71416376,134,0,90,500,North Macedonia
+imgs_final_v1/444.jpg,Paredes,41.20571235,-8.334923066,272,0,90,500,Portugal
+imgs_final_v1/445.jpg,Zapopan,20.71547001,-103.3994632,308,0,90,500,Mexico
+imgs_final_v1/446.jpg,Bronx,40.85070479,-73.86721535,131,0,90,500,United States
+imgs_final_v1/447.jpg,Amsterdam,52.37228992,4.891709751,15,0,90,500,Netherlands
+imgs_final_v1/448.jpg,Virginia Beach,36.73408327,-76.04449258,270,0,90,500,United States
+imgs_final_v1/449.jpg,Charlotte,35.2073649,-80.82884351,335,0,90,500,United States
+imgs_final_v1/450.jpg,Milan,45.4666223,9.190886034,237,0,90,500,Italy
+imgs_final_v1/451.jpg,Santiago,19.45657505,-70.68891633,149,0,90,500,Chile
+imgs_final_v1/452.jpg,Juárez,31.74520556,-106.4859044,311,0,90,500,Mexico
+imgs_final_v1/453.jpg,Calgary,51.0508813,-114.0652546,203,0,90,500,Canada
+imgs_final_v1/454.jpg,Milwaukee,43.06411399,-87.96733322,279,0,90,500,United States
+imgs_final_v1/455.jpg,Providence,41.82263855,-71.42031483,29,0,90,500,United States
+imgs_final_v1/456.jpg,Jacksonville,30.33217777,-81.67567388,180,0,90,500,United States
+imgs_final_v1/457.jpg,Dublin,53.35071514,-6.260475103,331,0,90,500,Ireland
+imgs_final_v1/458.jpg,Belgrade,44.82143972,20.4604744,116,0,90,500,Serbia
+imgs_final_v1/459.jpg,Nashville,36.17133539,-86.7835548,291,0,90,500,United States
+imgs_final_v1/460.jpg,Salt Lake City,40.77892269,-111.930181,222,0,90,500,United States
+imgs_final_v1/461.jpg,Raleigh,35.83358377,-78.64189379,357,0,90,500,United States
+imgs_final_v1/462.jpg,Edmonton,53.53462982,-113.4883061,92,0,90,500,Canada
+imgs_final_v1/463.jpg,Mexicali,32.66240779,-115.466751,168,0,90,500,Mexico
+imgs_final_v1/464.jpg,Nezahualcóyotl,19.40909983,-99.01786561,344,0,90,500,Mexico
+imgs_final_v1/465.jpg,Richmond,37.52913833,-77.47634773,191,0,90,500,United States
+imgs_final_v1/466.jpg,Ciudad Nezahualcóyotl,19.39989635,-99.0162225,6,0,90,500,Mexico
+imgs_final_v1/467.jpg,Ottawa,45.42503206,-75.69650815,195,0,90,500,Canada
+imgs_final_v1/468.jpg,Memphis,35.11008824,-89.96599148,86,0,90,500,United States
+imgs_final_v1/469.jpg,Morelia,19.76865434,-101.1897126,229,0,90,500,Mexico
+imgs_final_v1/470.jpg,Oklahoma City,35.46655067,-97.5140418,309,0,90,500,United States
+imgs_final_v1/471.jpg,Hartford,41.76496863,-72.68350649,165,0,90,500,United States
+imgs_final_v1/472.jpg,Louisville,38.1657241,-85.64937431,126,0,90,500,United States
+imgs_final_v1/473.jpg,Buffalo,42.90105847,-78.84811199,286,0,90,500,United States
+imgs_final_v1/474.jpg,Aguascalientes,21.87596294,-102.2943582,141,0,90,500,Mexico
+imgs_final_v1/475.jpg,New Orleans,30.06946831,-89.92999466,176,0,90,500,United States
+imgs_final_v1/476.jpg,Fort Worth,32.78259429,-97.34599501,100,0,90,500,United States
+imgs_final_v1/477.jpg,Riga,56.94961918,24.10431288,214,0,90,500,Latvia
+imgs_final_v1/478.jpg,Naples,40.83269167,14.25068694,51,0,90,500,Italy
+imgs_final_v1/479.jpg,Naucalpan de Juárez,19.47426383,-99.23731764,58,0,90,500,Mexico
+imgs_final_v1/480.jpg,Bridgeport,41.19276772,-73.19396708,294,0,90,500,United States
+imgs_final_v1/481.jpg,Cancún,21.16126955,-86.84728027,245,0,90,500,Mexico
+imgs_final_v1/482.jpg,Tucson,32.15446149,-110.87992,113,0,90,500,United States
+imgs_final_v1/483.jpg,Chihuahua,28.6365227,-106.0766652,223,0,90,500,Mexico
+imgs_final_v1/484.jpg,Saltillo,25.42453336,-100.9922633,260,0,90,500,Mexico
+imgs_final_v1/485.jpg,El Dorado,24.8072372,-107.3978396,34,0,90,500,Mexico
+imgs_final_v1/486.jpg,Portsmouth,50.80570298,-1.08861061,20,0,90,500,United Kingdom
+imgs_final_v1/487.jpg,Southampton,50.90203439,-1.402384049,301,0,90,500,United Kingdom
+imgs_final_v1/488.jpg,Hermosillo,29.09851686,-110.953027,161,0,90,500,Mexico
+imgs_final_v1/489.jpg,Omaha,41.26347402,-96.05248414,339,0,90,500,United States
+imgs_final_v1/490.jpg,Culiacán,24.80537216,-107.3940215,108,0,90,500,Mexico
+imgs_final_v1/491.jpg,Querétaro,20.58678968,-100.391552,303,0,90,500,Mexico
+imgs_final_v1/492.jpg,Palermo,2.890327873,-75.43737516,294,0,90,500,Colombia
+imgs_final_v1/493.jpg,McAllen,26.22502365,-98.24574419,199,0,90,500,United States
+imgs_final_v1/494.jpg,Hempstead,40.66376404,-73.60926367,46,0,90,500,United States
+imgs_final_v1/495.jpg,Leeds,53.79755227,-1.541515099,28,0,90,500,United Kingdom
+imgs_final_v1/496.jpg,Birmingham,33.5285401,-86.79646146,317,0,90,500,United Kingdom
+imgs_final_v1/497.jpg,San Luis Potosí,22.15111914,-100.9748604,82,0,90,500,Mexico
+imgs_final_v1/498.jpg,Albuquerque,35.10485404,-106.6467493,273,0,90,500,United States
+imgs_final_v1/499.jpg,Winnipeg,49.88395372,-97.14518799,332,0,90,500,Canada
+imgs_final_v1/500.jpg,Quebec City,46.8127327,-71.20921029,114,0,90,500,Canada
+imgs_final_v1/501.jpg,Tulsa,36.12758821,-95.90502662,170,0,90,500,United States
+imgs_final_v1/502.jpg,Nottingham,52.95561406,-1.149971321,127,0,90,500,United Kingdom
+imgs_final_v1/503.jpg,Hamilton,43.25678867,-79.86853315,16,0,90,500,Canada
+imgs_final_v1/504.jpg,Fresno,36.78349076,-119.7942416,194,0,90,500,United States
+imgs_final_v1/505.jpg,Mississauga,43.60120155,-79.64979427,288,0,90,500,Canada
+imgs_final_v1/506.jpg,Bristol,51.45354398,-2.598306976,43,0,90,500,United Kingdom
+imgs_final_v1/507.jpg,Charleston,32.8170056,-79.96830558,53,0,90,500,United States
+imgs_final_v1/508.jpg,Rochester,43.16694957,-77.61497743,138,0,90,500,United States
+imgs_final_v1/509.jpg,Salem,11.65000968,78.14903215,357,0,90,500,India
+imgs_final_v1/510.jpg,Zaragoza,41.65146293,-0.883603744,271,0,90,500,Spain
+imgs_final_v1/511.jpg,Acapulco de Juárez,16.86500926,-99.8822394,226,0,90,500,Mexico
+imgs_final_v1/512.jpg,Dayton,39.78142855,-84.20082893,327,0,90,500,United States
+imgs_final_v1/513.jpg,Rotterdam,51.91872198,4.480074795,341,0,90,500,Netherlands
+imgs_final_v1/514.jpg,Tlaquepaque,20.61780779,-103.3165635,130,0,90,500,Mexico
+imgs_final_v1/515.jpg,Brampton,43.68439212,-79.76722799,289,0,90,500,Canada
+imgs_final_v1/516.jpg,Durango,24.02476446,-104.666687,46,0,90,500,Mexico
+imgs_final_v1/517.jpg,Cape Coral,26.6435638,-81.99488591,242,0,90,500,United States
+imgs_final_v1/518.jpg,Tlalnepantla,19.53549089,-99.19572573,219,0,90,500,Mexico
+imgs_final_v1/519.jpg,Mission Viejo,33.6090158,-117.6537103,153,0,90,500,United States
+imgs_final_v1/520.jpg,Colorado Springs,38.86740007,-104.7597372,239,0,90,500,United States
+imgs_final_v1/521.jpg,Baton Rouge,30.44065473,-91.13079711,98,0,90,500,United States
+imgs_final_v1/522.jpg,Palermo,38.1117698,13.35248618,234,0,90,500,Colombia
+imgs_final_v1/523.jpg,Allentown,40.59702348,-75.47515888,329,0,90,500,United States
+imgs_final_v1/524.jpg,Ogden,41.22684778,-111.968621,43,0,90,500,United States
+imgs_final_v1/525.jpg,Provo,40.24605148,-111.6461779,332,0,90,500,United States
+imgs_final_v1/526.jpg,Knoxville,35.96938442,-83.94898814,307,0,90,500,United States
+imgs_final_v1/527.jpg,Chimalhuacán,19.41775067,-98.89900745,284,0,90,500,Mexico
+imgs_final_v1/528.jpg,Grand Rapids,42.96154463,-85.65750928,319,0,90,500,United States
+imgs_final_v1/529.jpg,Irapuato,20.66612343,-101.3509439,272,0,90,500,Mexico
+imgs_final_v1/530.jpg,Reynosa,26.0911966,-98.27910874,298,0,90,500,Mexico
+imgs_final_v1/531.jpg,Tuxtla,16.75379207,-93.11781873,204,0,90,500,Mexico
+imgs_final_v1/532.jpg,Bakersfield,35.3538465,-119.0343913,223,0,90,500,United States
+imgs_final_v1/533.jpg,Tonalá,20.61609635,-103.2346804,158,0,90,500,Mexico
+imgs_final_v1/534.jpg,Bremen,53.07716137,8.807543523,215,0,90,500,Germany
+imgs_final_v1/535.jpg,Surrey,49.19017837,-122.846558,16,0,90,500,Canada
+imgs_final_v1/536.jpg,New Haven,41.31145157,-72.92584295,322,0,90,500,United States
+imgs_final_v1/537.jpg,Genoa,44.41048397,8.931678708,297,0,90,500,Italy
+imgs_final_v1/538.jpg,Cuautitlán Izcalli,19.64919167,-99.24911957,62,0,90,500,Mexico
+imgs_final_v1/539.jpg,Des Moines,41.57151241,-93.60980582,255,0,90,500,United States
+imgs_final_v1/540.jpg,Lisbon,38.72560154,-9.148906533,150,0,90,500,Portugal
+imgs_final_v1/541.jpg,Manchester,53.47997384,-2.24621018,212,0,90,500,United Kingdom
+imgs_final_v1/542.jpg,Ixtapaluca,19.31969398,-98.8811664,175,0,90,500,Mexico
+imgs_final_v1/543.jpg,Heroica Matamoros,25.87988757,-97.50271164,242,0,90,500,Mexico
+imgs_final_v1/544.jpg,Akron,41.08030906,-81.52103449,13,0,90,500,United States
+imgs_final_v1/545.jpg,Palm Bay,27.96204744,-80.65994968,275,0,90,500,United States
+imgs_final_v1/546.jpg,Concord,37.97322054,-122.0028696,176,0,90,500,United States
+imgs_final_v1/547.jpg,Ciudad Apodaca,25.78032051,-100.1885108,33,0,90,500,Mexico
+imgs_final_v1/548.jpg,Kitchener,43.41939204,-80.47382041,36,0,90,500,Canada
+imgs_final_v1/549.jpg,Tultitlán de Mariano Escobedo,19.64429336,-99.16863601,261,0,90,500,Mexico
+imgs_final_v1/550.jpg,Sheffield,53.38066446,-1.470637168,180,0,90,500,United Kingdom
+imgs_final_v1/551.jpg,Wichita,37.6887081,-97.34382082,242,0,90,500,United States
+imgs_final_v1/552.jpg,Leicester,52.63523459,-1.133360953,16,0,90,500,United Kingdom
+imgs_final_v1/553.jpg,Newcastle,-27.7453622,29.93275113,328,0,90,500,South Africa
+imgs_final_v1/554.jpg,Mesa,33.40125886,-111.7176365,4,0,90,500,United States
+imgs_final_v1/555.jpg,Mazatlán,23.21737792,-106.4161704,72,0,90,500,Mexico
+imgs_final_v1/556.jpg,Sydney,-33.86854276,151.209753,186,0,90,500,Australia
+imgs_final_v1/557.jpg,Brisbane,-27.46728141,153.0286758,70,0,90,500,Australia
+imgs_final_v1/558.jpg,Warner Robins,32.5970529,-83.6526531,299,0,90,500,United States
+imgs_final_v1/559.jpg,Chatham,51.37000316,0.51839233,63,0,90,500,United Kingdom
+imgs_final_v1/560.jpg,Olathe,38.88254809,-94.82017353,188,0,90,500,United States
+imgs_final_v1/561.jpg,Kansas City,39.12394131,-94.74322269,95,0,90,500,United States
+imgs_final_v1/562.jpg,Layton,41.07623243,-111.9612568,238,0,90,500,United States
+imgs_final_v1/563.jpg,Zapotlanejo,20.62422312,-103.0685738,129,0,90,500,Mexico
+imgs_final_v1/564.jpg,Holland,42.76914745,-86.09831321,195,0,90,500,United States
+imgs_final_v1/565.jpg,Lauderhill,26.16027222,-80.22265849,160,0,90,500,United States
+imgs_final_v1/566.jpg,El Estor,15.53430973,-89.34933284,337,0,90,500,Guatemala
+imgs_final_v1/567.jpg,Guaymas,27.91786826,-110.8932051,326,0,90,500,Mexico
+imgs_final_v1/568.jpg,Cicero,41.84516029,-87.76072402,225,0,90,500,United States
+imgs_final_v1/569.jpg,Fredericton,45.96488456,-66.64337569,163,0,90,500,Canada
+imgs_final_v1/570.jpg,Sparks,39.57459582,-119.7176238,167,0,90,500,United States
+imgs_final_v1/571.jpg,Brick,40.05861955,-74.109052,13,0,90,500,United States
+imgs_final_v1/572.jpg,Terre Haute,39.46646693,-87.37508136,189,0,90,500,United States
+imgs_final_v1/573.jpg,Centennial,39.59128648,-104.8684007,45,0,90,500,United States
+imgs_final_v1/574.jpg,Sheboygan,43.73966509,-87.7315869,332,0,90,500,United States
+imgs_final_v1/575.jpg,Tempe,33.38785285,-111.9307728,122,0,90,500,United States
+imgs_final_v1/576.jpg,Camarillo,34.22238316,-119.0321251,30,0,90,500,United States
+imgs_final_v1/577.jpg,Cupertino,37.31596364,-122.0460588,54,0,90,500,United States
+imgs_final_v1/578.jpg,St. Cloud,45.53363797,-94.17069936,340,0,90,500,United States
+imgs_final_v1/579.jpg,Malacatán,14.90096921,-92.04946421,292,0,90,500,Guatemala
+imgs_final_v1/580.jpg,Acámbaro,20.03565001,-100.7318242,236,0,90,500,Mexico
+imgs_final_v1/581.jpg,Zihuatanejo,17.64322286,-101.5505459,85,0,90,500,Mexico
+imgs_final_v1/582.jpg,Clovis,36.82872565,-119.6842667,357,0,90,500,United States
+imgs_final_v1/583.jpg,Casa Grande,32.90608964,-111.7628209,97,0,90,500,United States
+imgs_final_v1/584.jpg,La Trinidad,15.9829177,-91.8678984,179,0,90,500,Mexico
+imgs_final_v1/585.jpg,Palín,14.40363287,-90.69958336,341,0,90,500,Guatemala
+imgs_final_v1/586.jpg,Francisco I. Madero,25.77564524,-103.2721078,294,0,90,500,Mexico
+imgs_final_v1/587.jpg,San Felipe,-32.7510683,-70.72337637,71,0,90,500,Chile
+imgs_final_v1/588.jpg,Kelowna,49.88902636,-119.4966442,148,0,90,500,Canada
+imgs_final_v1/589.jpg,San José del Cabo,23.0617103,-109.7071765,204,0,90,500,Mexico
+imgs_final_v1/590.jpg,Johns Creek,34.03271935,-84.20349125,120,0,90,500,United States
+imgs_final_v1/591.jpg,Juana Díaz,18.05215907,-66.50385709,259,0,90,500,Puerto Rico
+imgs_final_v1/592.jpg,Santa Cruz del Quiché,15.02985039,-91.14853983,266,0,90,500,Guatemala
+imgs_final_v1/593.jpg,Alhambra,34.084149,-118.1351635,14,0,90,500,United States
+imgs_final_v1/594.jpg,Dover,43.18818909,-70.88380837,241,0,90,500,United States
+imgs_final_v1/595.jpg,Ramos Arizpe,25.54920448,-100.9662564,333,0,90,500,Mexico
+imgs_final_v1/596.jpg,Jackson,35.65497052,-88.83411822,248,0,90,500,United States
+imgs_final_v1/597.jpg,Lerma,19.28432787,-99.51298477,116,0,90,500,Mexico
+imgs_final_v1/598.jpg,Gardena,33.89315579,-118.3081404,120,0,90,500,United States
+imgs_final_v1/599.jpg,Troy,42.73452427,-73.67558679,192,0,90,500,United States
+imgs_final_v1/600.jpg,Grande Prairie,55.16934784,-118.7957252,153,0,90,500,Canada
+imgs_final_v1/601.jpg,Lafayette,40.39925911,-86.85892591,167,0,90,500,United States
+imgs_final_v1/602.jpg,Upper Darby,39.94858168,-75.28722346,327,0,90,500,United States
+imgs_final_v1/603.jpg,Heroica Guaymas,27.91739129,-110.8998948,344,0,90,500,Mexico
+imgs_final_v1/604.jpg,Chetumal,18.50265751,-88.3051623,266,0,90,500,Mexico
+imgs_final_v1/605.jpg,Bayamón,18.37926943,-66.16420282,74,0,90,500,Puerto Rico
+imgs_final_v1/606.jpg,Norman,35.23240501,-97.34808801,78,0,90,500,United States
+imgs_final_v1/607.jpg,Winchester,39.17342902,-78.17438377,147,0,90,500,United States
+imgs_final_v1/608.jpg,Suffolk,36.69572059,-76.63866888,2,0,90,500,United States
+imgs_final_v1/609.jpg,Waterloo,43.46794599,-80.51713798,157,0,90,500,Canada
+imgs_final_v1/610.jpg,Dudley,52.50907443,-2.087527061,32,0,90,500,United Kingdom
+imgs_final_v1/611.jpg,Terrebonne,45.699414,-73.63129014,239,0,90,500,Canada
+imgs_final_v1/612.jpg,Ciudad Valles,21.98353863,-99.0155695,195,0,90,500,Mexico
+imgs_final_v1/613.jpg,Escondido,33.13511752,-117.072947,148,0,90,500,United States
+imgs_final_v1/614.jpg,Red Deer,52.26809756,-113.8091413,128,0,90,500,Canada
+imgs_final_v1/615.jpg,Parsippany-Troy Hills,40.8614142,-74.42472427,85,0,90,500,United States
+imgs_final_v1/616.jpg,Glen Burnie,39.15506902,-76.60645228,240,0,90,500,United States
+imgs_final_v1/617.jpg,Port Orange,29.10754503,-81.01364438,159,0,90,500,United States
+imgs_final_v1/618.jpg,La Gomera,14.0822552,-91.04976321,341,0,90,500,Guatemala
+imgs_final_v1/619.jpg,North Little Rock,34.7806094,-92.2354719,204,0,90,500,United States
+imgs_final_v1/620.jpg,Royal Oak,42.50949352,-83.15269592,171,0,90,500,United States
+imgs_final_v1/621.jpg,Hemet,33.7339944,-116.9956294,310,0,90,500,United States
+imgs_final_v1/622.jpg,Lakewood,41.48118514,-81.80227214,189,0,90,500,United States
+imgs_final_v1/623.jpg,Manzanillo,19.05256991,-104.3149122,235,0,90,500,Mexico
+imgs_final_v1/624.jpg,Pine Hills,28.58311181,-81.46957428,305,0,90,500,United States
+imgs_final_v1/625.jpg,Amatitlán,14.48373647,-90.61787091,93,0,90,500,Guatemala
+imgs_final_v1/626.jpg,Santa María Texmelucan,19.28372869,-98.43188281,148,0,90,500,Mexico
+imgs_final_v1/627.jpg,Parma,41.38578599,-81.72894267,236,0,90,500,United States
+imgs_final_v1/628.jpg,La Habra,33.92883352,-117.9498142,357,0,90,500,United States
+imgs_final_v1/629.jpg,Jacksonville,34.72915832,-77.39540397,324,0,90,500,United States
+imgs_final_v1/630.jpg,Jutiapa,14.28373238,-89.89165228,199,0,90,500,Guatemala
+imgs_final_v1/631.jpg,St. Albert,53.63035668,-113.6259224,321,0,90,500,Canada
+imgs_final_v1/632.jpg,Aspen Hill,39.0928942,-77.08442808,289,0,90,500,United States
+imgs_final_v1/633.jpg,Texcoco,19.52034255,-98.8793778,46,0,90,500,Mexico
+imgs_final_v1/634.jpg,Spring Hill,35.74489484,-86.91169193,262,0,90,500,United States
+imgs_final_v1/635.jpg,Rocky Mount,35.96792887,-77.80350016,215,0,90,500,United States
+imgs_final_v1/636.jpg,Westminster,39.88447623,-105.0631956,251,0,90,500,United States
+imgs_final_v1/637.jpg,Repentigny,45.73349639,-73.46571961,314,0,90,500,Canada
+imgs_final_v1/638.jpg,Longview,46.14507554,-122.9644267,157,0,90,500,United States
+imgs_final_v1/639.jpg,Bossier City,32.52219709,-93.66802048,200,0,90,500,United States
+imgs_final_v1/640.jpg,Elizabethtown,37.70272647,-85.8757246,168,0,90,500,United States
+imgs_final_v1/641.jpg,San Luis Río Colorado,32.47619228,-114.763319,217,0,90,500,Mexico
+imgs_final_v1/642.jpg,Chelmsford,51.73085911,0.479215406,281,0,90,500,United Kingdom
+imgs_final_v1/643.jpg,La Chorrera,8.879411975,-79.78354707,124,0,90,500,Panama
+imgs_final_v1/644.jpg,Grimsby,53.56717432,-0.077665727,319,0,90,500,United Kingdom
+imgs_final_v1/645.jpg,North Bergen,40.7933811,-74.02222992,324,0,90,500,United States
+imgs_final_v1/646.jpg,York,53.95955137,-1.079891282,352,0,90,500,United Kingdom
+imgs_final_v1/647.jpg,Framingham,42.30877831,-71.43720796,134,0,90,500,United States
+imgs_final_v1/648.jpg,San José Villa de Allende,19.37530226,-100.1482263,26,0,90,500,Mexico
+imgs_final_v1/649.jpg,Schaumburg,42.03180009,-88.08258618,78,0,90,500,United States
+imgs_final_v1/650.jpg,El Bosque,-33.56567649,-70.6740928,10,0,90,500,Chile
+imgs_final_v1/651.jpg,Sudbury,46.49060695,-81.01114724,225,0,90,500,Canada
+imgs_final_v1/652.jpg,Jupiter,26.92029506,-80.11322374,19,0,90,500,United States
+imgs_final_v1/653.jpg,Stratford,51.54306423,-0.003024034,316,0,90,500,United Kingdom
+imgs_final_v1/654.jpg,Castro Valley,37.70914256,-122.0616058,222,0,90,500,United States
+imgs_final_v1/655.jpg,Dunwoody,33.94254158,-84.3116922,143,0,90,500,United States
+imgs_final_v1/656.jpg,Palatine,42.11892205,-88.04392599,141,0,90,500,United States
+imgs_final_v1/657.jpg,Port Coquitlam,49.26189332,-122.7830036,194,0,90,500,Canada
+imgs_final_v1/658.jpg,San Pedro Sacatepéquez,14.96673971,-91.76530872,232,0,90,500,Guatemala
+imgs_final_v1/659.jpg,Tracy,37.72823731,-121.4513896,297,0,90,500,United States
+imgs_final_v1/660.jpg,Fishers,39.95985402,-85.96729048,340,0,90,500,United States
+imgs_final_v1/661.jpg,Carson,33.83809929,-118.2559494,196,0,90,500,United States
+imgs_final_v1/662.jpg,León,42.60613178,-5.57166537,66,0,90,500,Nicaragua
+imgs_final_v1/663.jpg,Caldwell,43.64625623,-116.6598616,264,0,90,500,United States
+imgs_final_v1/664.jpg,Sayaxché,16.51687552,-90.18191823,337,0,90,500,Guatemala
+imgs_final_v1/665.jpg,Kendall,25.67069985,-80.35613174,220,0,90,500,United States
+imgs_final_v1/666.jpg,Maricopa,33.04115084,-111.9998391,8,0,90,500,United States
+imgs_final_v1/667.jpg,North Charleston,32.90795936,-80.07135529,181,0,90,500,United States
+imgs_final_v1/668.jpg,Bath,51.37947666,-2.360701694,310,0,90,500,United Kingdom
+imgs_final_v1/669.jpg,Jurupa Valley,34.00079156,-117.4698535,295,0,90,500,United States
+imgs_final_v1/670.jpg,Eden Prairie,44.8497975,-93.45874785,56,0,90,500,United States
+imgs_final_v1/671.jpg,Cabo San Lucas,22.89072528,-109.9146236,286,0,90,500,Mexico
+imgs_final_v1/672.jpg,West Palm Beach,26.74640464,-80.13354725,49,0,90,500,United States
+imgs_final_v1/673.jpg,Carson City,39.15010397,-119.7469171,254,0,90,500,United States
+imgs_final_v1/674.jpg,Tejupilco,18.90489567,-100.153572,189,0,90,500,Mexico
+imgs_final_v1/675.jpg,Pearland,29.55873248,-95.32337348,256,0,90,500,United States
+imgs_final_v1/676.jpg,Châteauguay,45.37900275,-73.74945972,182,0,90,500,Canada
+imgs_final_v1/677.jpg,Piscataway,40.54630114,-74.46318025,223,0,90,500,United States
+imgs_final_v1/678.jpg,Mazatenango,14.53430886,-91.49902525,195,0,90,500,Guatemala
+imgs_final_v1/679.jpg,Las Cruces,32.32756839,-106.7891133,40,0,90,500,United States
+imgs_final_v1/680.jpg,Santee,32.85518767,-116.9865879,310,0,90,500,United States
+imgs_final_v1/681.jpg,Martin,49.06533417,18.91964122,189,0,90,500,Slovakia
+imgs_final_v1/682.jpg,Ciudad Río Bravo,25.98545581,-98.08862854,217,0,90,500,Mexico
+imgs_final_v1/683.jpg,Coon Rapids,45.17593914,-93.31042488,304,0,90,500,United States
+imgs_final_v1/684.jpg,Morristown,36.20463543,-83.30191918,328,0,90,500,United States
+imgs_final_v1/685.jpg,Silao,20.94892221,-101.4280931,169,0,90,500,Mexico
+imgs_final_v1/686.jpg,Huamantla,19.31453389,-97.92257199,90,0,90,500,Mexico
+imgs_final_v1/687.jpg,Malden,42.43117714,-71.05593118,136,0,90,500,United States
+imgs_final_v1/688.jpg,Batatais,-20.89077067,-47.58338063,301,0,90,500,Brazil
+imgs_final_v1/689.jpg,Estância Velha,-29.64905257,-51.18281116,205,0,90,500,Brazil
+imgs_final_v1/690.jpg,Guapimirim,-22.5376529,-42.81603964,312,0,90,500,Brazil
+imgs_final_v1/691.jpg,Sertãozinho,-21.13908982,-47.99006867,297,0,90,500,Brazil
+imgs_final_v1/692.jpg,Guarabira,-6.855733137,-35.48873616,211,0,90,500,Brazil
+imgs_final_v1/693.jpg,Quirinópolis,-18.44734023,-50.44729211,328,0,90,500,Brazil
+imgs_final_v1/694.jpg,Camarajibe,-8.022481221,-34.98047278,83,0,90,500,Brazil
+imgs_final_v1/695.jpg,Itumbiara,-18.41609745,-49.21739106,247,0,90,500,Brazil
+imgs_final_v1/696.jpg,Necoclí,8.417756339,-76.7837444,46,0,90,500,Colombia
+imgs_final_v1/697.jpg,Camocim,-2.900525178,-40.840116,258,0,90,500,Brazil
+imgs_final_v1/698.jpg,Luján,-34.56809112,-59.09982165,232,0,90,500,Argentina
+imgs_final_v1/699.jpg,Ilhéus,-14.78902832,-39.0484377,317,0,90,500,Brazil
+imgs_final_v1/700.jpg,Montelíbano,7.97465325,-75.42079647,77,0,90,500,Colombia
+imgs_final_v1/701.jpg,Rosario,14.42116999,120.8502408,328,0,90,500,Argentina
+imgs_final_v1/702.jpg,Alto Hospicio,-20.25017769,-70.11601192,222,0,90,500,Chile
+imgs_final_v1/703.jpg,San Gil,6.559099064,-73.13615487,17,0,90,500,Colombia
+imgs_final_v1/704.jpg,Lagoa Santa,-19.62801008,-43.88918779,0,0,90,500,Brazil
+imgs_final_v1/705.jpg,Sullana,-4.900846069,-80.68382429,44,0,90,500,Peru
+imgs_final_v1/706.jpg,Passos,-20.71857298,-46.60983622,121,0,90,500,Brazil
+imgs_final_v1/707.jpg,Abancay,-13.63433052,-72.88340467,218,0,90,500,Peru
+imgs_final_v1/708.jpg,Monte Mor,-22.94634841,-47.31406829,147,0,90,500,Brazil
+imgs_final_v1/709.jpg,Viedma,-40.7990387,-63.00103422,289,0,90,500,Argentina
+imgs_final_v1/710.jpg,Guaíba,-30.11830203,-51.31989494,81,0,90,500,Brazil
+imgs_final_v1/711.jpg,Santa Cruz do Sul,-29.71740434,-52.42643851,254,0,90,500,Brazil
+imgs_final_v1/712.jpg,Acaraú,-2.885821871,-40.11863744,28,0,90,500,Brazil
+imgs_final_v1/713.jpg,Araguaína,-7.190194627,-48.20658482,271,0,90,500,Brazil
+imgs_final_v1/714.jpg,Eldorado,-26.40156348,-54.63332874,357,0,90,500,Argentina
+imgs_final_v1/715.jpg,Villa Carlos Paz,-31.40134047,-64.51652353,193,0,90,500,Argentina
+imgs_final_v1/716.jpg,Buenavista,8.968934223,125.4096476,111,0,90,500,Philippines
+imgs_final_v1/717.jpg,Bragança Paulista,-22.9539284,-46.54294682,273,0,90,500,Brazil
+imgs_final_v1/718.jpg,Daule,-1.868122122,-79.98281567,340,0,90,500,Ecuador
+imgs_final_v1/719.jpg,Lucas do Rio Verde,-13.07291798,-55.91862335,162,0,90,500,Brazil
+imgs_final_v1/720.jpg,Euclides da Cunha,-10.50690334,-39.01425821,129,0,90,500,Brazil
+imgs_final_v1/721.jpg,Jaraguá do Sul,-26.48288701,-49.06736125,225,0,90,500,Brazil
+imgs_final_v1/722.jpg,Cachoeira do Sul,-30.03859081,-52.89446081,350,0,90,500,Brazil
+imgs_final_v1/723.jpg,General Roca,-39.0319184,-67.58423645,149,0,90,500,Argentina
+imgs_final_v1/724.jpg,São José do Rio Pardo,-21.5955111,-46.88698779,138,0,90,500,Brazil
+imgs_final_v1/725.jpg,Nova Odessa,-22.77856948,-47.29908587,316,0,90,500,Brazil
+imgs_final_v1/726.jpg,Rio do Sul,-27.21583205,-49.64976327,283,0,90,500,Brazil
+imgs_final_v1/727.jpg,Almirante Tamandaré,-25.32546993,-49.30918169,284,0,90,500,Brazil
+imgs_final_v1/728.jpg,Barra do Garças,-15.89140842,-52.2572854,325,0,90,500,Brazil
+imgs_final_v1/729.jpg,União dos Palmares,-9.162030541,-36.03187839,32,0,90,500,Brazil
+imgs_final_v1/730.jpg,Carpina,-7.850413904,-35.25431504,335,0,90,500,Brazil
+imgs_final_v1/731.jpg,Biguaçu,-27.49976206,-48.66631204,121,0,90,500,Brazil
+imgs_final_v1/732.jpg,Moquegua,-17.19862634,-70.93356079,217,0,90,500,Peru
+imgs_final_v1/733.jpg,Chota,-6.560161459,-78.64789487,70,0,90,500,Peru
+imgs_final_v1/734.jpg,Aquiraz,-3.900742721,-38.38383455,298,0,90,500,Brazil
+imgs_final_v1/735.jpg,São Félix do Xingu,-6.63306127,-51.98464949,275,0,90,500,Brazil
+imgs_final_v1/736.jpg,Moju,-1.88998478,-48.76554896,85,0,90,500,Brazil
+imgs_final_v1/737.jpg,Sabanalarga,10.63021277,-74.92487597,165,0,90,500,Colombia
+imgs_final_v1/738.jpg,Coruripe,-10.12732339,-36.17572376,324,0,90,500,Brazil
+imgs_final_v1/739.jpg,Toledo,-24.71538947,-53.74277487,235,0,90,500,Brazil
+imgs_final_v1/740.jpg,Lambayeque,-6.699865344,-79.90155005,1,0,90,500,Peru
+imgs_final_v1/741.jpg,Santa Rosa,-27.86616537,-54.46571707,68,0,90,500,Brazil
+imgs_final_v1/742.jpg,Macaíba,-5.858158809,-35.35396818,289,0,90,500,Brazil
+imgs_final_v1/743.jpg,Catu,-12.35024097,-38.38339518,64,0,90,500,Brazil
+imgs_final_v1/744.jpg,Santa Cruz,36.97869009,-122.0354426,190,0,90,500,Spain
+imgs_final_v1/745.jpg,Santa Barbara,16.00334818,120.3995974,186,0,90,500,Philippines
+imgs_final_v1/746.jpg,Villa Mercedes,-33.66644343,-65.4651346,128,0,90,500,Argentina
+imgs_final_v1/747.jpg,Abaetetuba,-1.718697303,-48.883617,146,0,90,500,Brazil
+imgs_final_v1/748.jpg,Timbaúba,-7.510301266,-35.31825277,276,0,90,500,Brazil
+imgs_final_v1/749.jpg,Piraquara,-25.44189199,-49.06373042,276,0,90,500,Brazil
+imgs_final_v1/750.jpg,Vargem Grande Paulista,-23.60325373,-47.02655305,40,0,90,500,Brazil
+imgs_final_v1/751.jpg,Ambato,-1.241759451,-78.61987688,160,0,90,500,Ecuador
+imgs_final_v1/752.jpg,Quevedo,-1.033367191,-79.44999536,344,0,90,500,Ecuador
+imgs_final_v1/753.jpg,Tobias Barreto,-11.18465676,-37.9971954,262,0,90,500,Brazil
+imgs_final_v1/754.jpg,Brumado,-14.20395405,-41.66419338,321,0,90,500,Brazil
+imgs_final_v1/755.jpg,Curvelo,-18.75556861,-44.43199904,201,0,90,500,Brazil
+imgs_final_v1/756.jpg,Umuarama,-23.76636108,-53.3250513,336,0,90,500,Brazil
+imgs_final_v1/757.jpg,São Gonçalo do Amarante,-5.794136159,-35.32891824,337,0,90,500,Brazil
+imgs_final_v1/758.jpg,Ezpeleta,-34.75049498,-58.23407958,303,0,90,500,Argentina
+imgs_final_v1/759.jpg,Uruguaiana,-29.75465643,-57.08745819,67,0,90,500,Brazil
+imgs_final_v1/760.jpg,Osorno,-40.5739346,-73.13523491,195,0,90,500,Chile
+imgs_final_v1/761.jpg,Jequié,-13.86288959,-40.08548724,24,0,90,500,Brazil
+imgs_final_v1/762.jpg,Montero,-17.34084338,-63.25578271,77,0,90,500,Bolivia
+imgs_final_v1/763.jpg,Las Piedras,-34.71550655,-56.21716684,169,0,90,500,Uruguay
+imgs_final_v1/764.jpg,São Miguel do Guamá,-1.618003952,-47.45057515,319,0,90,500,Brazil
+imgs_final_v1/765.jpg,Vespasiano,-19.69097532,-43.92149529,233,0,90,500,Brazil
+imgs_final_v1/766.jpg,Ubá,-21.11999318,-42.94220454,115,0,90,500,Brazil
+imgs_final_v1/767.jpg,Barra,-11.08768578,-43.14261557,7,0,90,500,Brazil
+imgs_final_v1/768.jpg,Ciudad General Belgrano,-34.71720775,-58.531949,204,0,90,500,Argentina
+imgs_final_v1/769.jpg,Yopal,5.348760318,-72.4104943,111,0,90,500,Colombia
+imgs_final_v1/770.jpg,Campo Formoso,-10.50941859,-40.32149354,356,0,90,500,Brazil
+imgs_final_v1/771.jpg,Trelew,-43.25066453,-65.29806493,225,0,90,500,Argentina
+imgs_final_v1/772.jpg,Extrema,-22.85468756,-46.31793291,233,0,90,500,Brazil
+imgs_final_v1/773.jpg,Puerto Libertador,7.905561,-75.67222688,118,0,90,500,Colombia
+imgs_final_v1/774.jpg,Bezerros,-8.235078853,-35.75256208,106,0,90,500,Brazil
+imgs_final_v1/775.jpg,Altamira,-3.203218495,-52.20500088,32,0,90,500,Brazil
+imgs_final_v1/776.jpg,Paraíso do Tocantins,-10.18187395,-48.80005931,281,0,90,500,Brazil
+imgs_final_v1/777.jpg,Bernal,-34.6990194,-58.28467387,276,0,90,500,Argentina
+imgs_final_v1/778.jpg,Vacaria,-28.51172729,-50.93463818,138,0,90,500,Brazil
+imgs_final_v1/779.jpg,Caràzinho,-28.28309324,-52.78483978,107,0,90,500,Brazil
+imgs_final_v1/780.jpg,Valdivia,-39.81518626,-73.24489383,282,0,90,500,Chile
+imgs_final_v1/781.jpg,Navegantes,-26.89911225,-48.65508349,306,0,90,500,Brazil
+imgs_final_v1/782.jpg,Catamarca,-28.46789907,-65.78215536,231,0,90,500,Argentina
+imgs_final_v1/783.jpg,Villa Domínico,-34.69277803,-58.33341013,344,0,90,500,Argentina
+imgs_final_v1/784.jpg,Pombal,39.91596908,-8.628752142,288,0,90,500,Portugal
+imgs_final_v1/785.jpg,Caleta Olivia,-46.43410444,-67.53234044,21,0,90,500,Argentina
+imgs_final_v1/786.jpg,Cáceres,39.4839396,-6.366742584,256,0,90,500,Spain
+imgs_final_v1/787.jpg,Itapira,-22.43707537,-46.82041838,280,0,90,500,Brazil
+imgs_final_v1/788.jpg,Andahuaylas,-13.65737865,-73.3839889,280,0,90,500,Peru
+imgs_final_v1/789.jpg,Frontera,26.92530357,-101.447944,33,0,90,500,Mexico
+imgs_final_v1/790.jpg,Rio das Ostras,-22.52700712,-41.94653764,131,0,90,500,Brazil
+imgs_final_v1/791.jpg,Rio Grande,-32.03385647,-52.09869076,255,0,90,500,Brazil
+imgs_final_v1/792.jpg,Euriápolis,-16.377578,-39.58057405,156,0,90,500,Brazil
+imgs_final_v1/793.jpg,Facatativá,4.816661746,-74.36577007,186,0,90,500,Colombia
+imgs_final_v1/794.jpg,Santo Antônio de Jesus,-12.96789451,-39.26197574,26,0,90,500,Brazil
+imgs_final_v1/795.jpg,Taquaritinga,-21.40653217,-48.50437034,199,0,90,500,Brazil
+imgs_final_v1/796.jpg,Itanhaém,-24.18111059,-46.78279566,352,0,90,500,Brazil
+imgs_final_v1/797.jpg,San Francisco,10.64913948,124.3487955,275,0,90,500,Philippines
+imgs_final_v1/798.jpg,Sangolquí,-0.334236156,-78.44819078,223,0,90,500,Ecuador
+imgs_final_v1/799.jpg,Botucatu,-22.88588374,-48.44409405,145,0,90,500,Brazil
+imgs_final_v1/800.jpg,Altamira,22.33641027,-97.87035888,226,0,90,500,Brazil
+imgs_final_v1/801.jpg,Mongaguá,-24.08866815,-46.6298593,87,0,90,500,Brazil
+imgs_final_v1/802.jpg,Dosquebradas,4.832902576,-75.68385245,347,0,90,500,Colombia
+imgs_final_v1/803.jpg,Cruz Alta,-28.63906887,-53.60797645,98,0,90,500,Brazil
+imgs_final_v1/804.jpg,Buenavista,10.69965351,122.6308989,116,0,90,500,Philippines
+imgs_final_v1/805.jpg,Pato Branco,-26.21731734,-52.6652442,250,0,90,500,Brazil
+imgs_final_v1/806.jpg,Huaquillas,-3.480404561,-80.24290612,1,0,90,500,Ecuador
+imgs_final_v1/807.jpg,Calama,-22.4675519,-68.93444092,196,0,90,500,Chile
+imgs_final_v1/808.jpg,Cosmópolis,-22.64708854,-47.19527081,38,0,90,500,Brazil
+imgs_final_v1/809.jpg,Babahoyo,-1.816753983,-79.51547195,336,0,90,500,Ecuador
+imgs_final_v1/810.jpg,Palmeira dos Índios,-9.405883293,-36.62837986,73,0,90,500,Brazil
+imgs_final_v1/811.jpg,Pedro Leopoldo,-19.61909605,-44.04246926,313,0,90,500,Brazil
+imgs_final_v1/812.jpg,Rafael Calzada,-34.78249687,-58.36597177,156,0,90,500,Argentina
+imgs_final_v1/813.jpg,Paraíso,18.39704856,-93.21283776,309,0,90,500,Mexico
+imgs_final_v1/814.jpg,Parobé,-29.62842931,-50.83469989,187,0,90,500,Brazil
+imgs_final_v1/815.jpg,Paranavaí,-23.07299072,-52.4640409,39,0,90,500,Brazil
+imgs_final_v1/816.jpg,Grajaú,-5.819933167,-46.13997906,222,0,90,500,Brazil
+imgs_final_v1/817.jpg,Goya,-29.13442782,-59.24906185,204,0,90,500,Argentina
+imgs_final_v1/818.jpg,Cerro de Pasco,-10.68751753,-76.26354217,90,0,90,500,Peru
+imgs_final_v1/819.jpg,Yekaterinburg,56.83662468,60.61296331,109,0,90,500,Russia
+imgs_final_v1/820.jpg,Kharkiv,49.99381039,36.23139828,40,0,90,500,Ukraine
+imgs_final_v1/821.jpg,Copenhagen,55.67487382,12.568668,348,0,90,500,Denmark
+imgs_final_v1/822.jpg,Helsinki,60.17158736,24.94014911,270,0,90,500,Finland
+imgs_final_v1/823.jpg,Kazan,55.79708713,49.10811855,105,0,90,500,Russia
+imgs_final_v1/824.jpg,Nizhniy Novgorod,56.32799548,44.00643002,34,0,90,500,Russia
+imgs_final_v1/825.jpg,Brussels,50.84653617,4.354112948,334,0,90,500,Belgium
+imgs_final_v1/826.jpg,Chelyabinsk,55.15558307,61.37480786,13,0,90,500,Russia
+imgs_final_v1/827.jpg,Omsk,54.9845238,73.3675592,30,0,90,500,Russia
+imgs_final_v1/828.jpg,Samara,53.20208391,50.14291831,58,0,90,500,Russia
+imgs_final_v1/829.jpg,Rostov,47.22148091,39.70906218,276,0,90,500,Russia
+imgs_final_v1/830.jpg,Ufa,54.72724839,55.94769344,174,0,90,500,Russia
+imgs_final_v1/831.jpg,Cologne,50.93593742,6.952008948,220,0,90,500,Germany
+imgs_final_v1/832.jpg,Krasnoyarsk,56.00792929,92.86974195,60,0,90,500,Russia
+imgs_final_v1/833.jpg,Oslo,59.91277654,10.73643688,65,0,90,500,Norway
+imgs_final_v1/834.jpg,Voronezh,51.67127965,39.20953748,191,0,90,500,Russia
+imgs_final_v1/835.jpg,Perm,57.99892961,56.31550621,240,0,90,500,Russia
+imgs_final_v1/836.jpg,Odesa,46.47754059,30.73412247,253,0,90,500,Ukraine
+imgs_final_v1/837.jpg,Volgograd,48.70759657,44.51317599,338,0,90,500,Russia
+imgs_final_v1/838.jpg,Bordeaux,44.84070678,-0.579168046,150,0,90,500,France
+imgs_final_v1/839.jpg,Dnipro,48.46756728,35.03850296,88,0,90,500,Ukraine
+imgs_final_v1/840.jpg,Málaga,36.72083479,-4.420644719,19,0,90,500,Spain
+imgs_final_v1/841.jpg,Krasnodar,45.03349045,38.96613557,117,0,90,500,Russia
+imgs_final_v1/842.jpg,Trujillo,-8.110943101,-79.02782915,353,0,90,500,Peru
+imgs_final_v1/843.jpg,Donetsk,48.0021309,37.80604563,286,0,90,500,Ukraine
+imgs_final_v1/844.jpg,Marseille,43.29670879,5.369373701,184,0,90,500,France
+imgs_final_v1/845.jpg,El Paso,31.84818903,-106.4312279,285,0,90,500,United States
+imgs_final_v1/846.jpg,Tyumen,57.14952995,65.53470032,112,0,90,500,Russia
+imgs_final_v1/847.jpg,Saratov,51.53346527,46.01904502,305,0,90,500,Russia
+imgs_final_v1/848.jpg,Turin,45.07919774,7.678003399,249,0,90,500,Italy
+imgs_final_v1/849.jpg,Kraków,50.06187917,19.93647311,151,0,90,500,Poland
+imgs_final_v1/850.jpg,Thessaloníki,40.64026145,22.93463449,333,0,90,500,Greece
+imgs_final_v1/851.jpg,Bilbao,43.25825766,-2.923210691,74,0,90,500,Spain
+imgs_final_v1/852.jpg,Frankfurt,50.11133672,8.681274638,124,0,90,500,Germany
+imgs_final_v1/853.jpg,Zagreb,45.81362345,15.9784532,188,0,90,500,Croatia
+imgs_final_v1/854.jpg,Lviv,49.84393582,24.03174044,103,0,90,500,Ukraine
+imgs_final_v1/855.jpg,Vilnius,54.68658807,25.27761593,253,0,90,500,Lithuania
+imgs_final_v1/856.jpg,Zaporizhzhia,47.85111087,35.11848404,158,0,90,500,Ukraine
+imgs_final_v1/857.jpg,Tolyatti,53.50816586,49.42374831,312,0,90,500,Russia
+imgs_final_v1/858.jpg,Wrocław,51.11137318,17.03274218,239,0,90,500,Poland
+imgs_final_v1/859.jpg,Łódź,51.77763739,19.45287363,13,0,90,500,Poland
+imgs_final_v1/860.jpg,Makhachkala,42.96751932,47.48427128,156,0,90,500,Russia
+imgs_final_v1/861.jpg,Izhevsk,56.83211487,53.18369344,223,0,90,500,Russia
+imgs_final_v1/862.jpg,Las Palmas,28.12545227,-15.43651554,259,0,90,500,Spain
+imgs_final_v1/863.jpg,Barnaul,53.34851314,83.77514945,92,0,90,500,Russia
+imgs_final_v1/864.jpg,Düsseldorf,51.23384662,6.781762968,334,0,90,500,Germany
+imgs_final_v1/865.jpg,Glasgow,55.86122628,-4.251521357,36,0,90,500,United Kingdom
+imgs_final_v1/866.jpg,Ulyanovsk,54.3164224,48.36772636,11,0,90,500,Russia
+imgs_final_v1/867.jpg,Irkutsk,52.28446182,104.2840121,108,0,90,500,Russia
+imgs_final_v1/868.jpg,Khabarovsk,48.48355482,135.0833127,223,0,90,500,Russia
+imgs_final_v1/869.jpg,Leipzig,51.34050512,12.37439981,28,0,90,500,Germany
+imgs_final_v1/870.jpg,Tallinn,59.43805307,24.74659733,222,0,90,500,Estonia
+imgs_final_v1/871.jpg,Gothenburg,57.70679687,11.96699586,321,0,90,500,Sweden
+imgs_final_v1/872.jpg,Kryvyi Rih,47.91039448,33.38868337,62,0,90,500,Ukraine
+imgs_final_v1/873.jpg,Yaroslavl,57.61758342,39.84917064,42,0,90,500,Russia
+imgs_final_v1/874.jpg,Vladivostok,43.13364152,131.9018773,35,0,90,500,Russia
+imgs_final_v1/875.jpg,Dortmund,51.51459881,7.463375978,46,0,90,500,Germany
+imgs_final_v1/876.jpg,Essen,51.45034139,7.011453162,31,0,90,500,Germany
+imgs_final_v1/877.jpg,Tomsk,56.50024994,84.96460917,342,0,90,500,Russia
+imgs_final_v1/878.jpg,Orenburg,51.78437438,55.10163026,259,0,90,500,Russia
+imgs_final_v1/879.jpg,Dresden,51.04902394,13.74169146,68,0,90,500,Germany
+imgs_final_v1/880.jpg,Kemerovo,55.36604525,86.06829031,255,0,90,500,Russia
+imgs_final_v1/881.jpg,Novokuznetsk,53.76763358,87.13476559,123,0,90,500,Russia
+imgs_final_v1/882.jpg,The Hague,52.08082513,4.309442156,175,0,90,500,Netherlands
+imgs_final_v1/883.jpg,Poznań,52.40896203,16.93140234,128,0,90,500,Poland
+imgs_final_v1/884.jpg,Hannover,52.36655191,9.718258689,1,0,90,500,Germany
+imgs_final_v1/885.jpg,Ryazan,54.62968488,39.74175521,32,0,90,500,Russia
+imgs_final_v1/886.jpg,Antwerp,51.21772938,4.398660476,99,0,90,500,Belgium
+imgs_final_v1/887.jpg,Naberezhnyye Chelny,55.68447733,52.31628068,170,0,90,500,Russia
+imgs_final_v1/888.jpg,Skopje,41.99651164,21.43307744,147,0,90,500,North Macedonia
+imgs_final_v1/889.jpg,Nuremberg,49.45416492,11.07577531,102,0,90,500,Germany
+imgs_final_v1/890.jpg,Lyon,45.7594388,4.841102559,160,0,90,500,France
+imgs_final_v1/891.jpg,Penza,53.19949185,44.99852362,221,0,90,500,Russia
+imgs_final_v1/892.jpg,Liverpool,53.4087423,-2.977396738,154,0,90,500,United Kingdom
+imgs_final_v1/893.jpg,Toulouse,43.60315227,1.444780141,160,0,90,500,France
+imgs_final_v1/894.jpg,Lipetsk,52.61583432,39.59897141,317,0,90,500,Russia
+imgs_final_v1/895.jpg,Duisburg,51.4359461,6.763575388,306,0,90,500,Germany
+imgs_final_v1/896.jpg,Kirov,58.60085872,49.68101298,330,0,90,500,Russia
+imgs_final_v1/897.jpg,Damaturu,11.74473282,11.9613665,41,0,90,500,Nigeria
+imgs_final_v1/898.jpg,Iwo,7.633692738,4.182060243,78,0,90,500,Nigeria
+imgs_final_v1/899.jpg,Medenine,33.35528504,10.50686005,350,0,90,500,Tunisia
+imgs_final_v1/900.jpg,El Jem,35.29585232,10.71368856,245,0,90,500,Tunisia
+imgs_final_v1/901.jpg,Mahdia,35.50103319,11.06537843,284,0,90,500,Tunisia
+imgs_final_v1/902.jpg,Wote,-1.783896922,37.63433482,277,0,90,500,Kenya
+imgs_final_v1/903.jpg,Embu,-0.538570784,37.45872592,73,0,90,500,Kenya
+imgs_final_v1/904.jpg,Benoni,-26.18964549,28.32085491,153,0,90,500,South Africa
+imgs_final_v1/905.jpg,El Kef,36.18234821,8.712974614,338,0,90,500,Tunisia
+imgs_final_v1/906.jpg,Dutse,11.70094346,9.343091735,6,0,90,500,Nigeria
+imgs_final_v1/907.jpg,Kisii,-0.683636475,34.76690772,238,0,90,500,Kenya
+imgs_final_v1/908.jpg,Msaken,35.73460583,10.58383334,285,0,90,500,Tunisia
+imgs_final_v1/909.jpg,Mukono,0.353271348,32.75522826,201,0,90,500,Uganda
+imgs_final_v1/910.jpg,Bethal,-26.4512444,29.44987849,70,0,90,500,South Africa
+imgs_final_v1/911.jpg,Asaba,6.183307437,6.734501255,168,0,90,500,Nigeria
+imgs_final_v1/912.jpg,Potchefstroom,-26.71395145,27.10445096,264,0,90,500,South Africa
+imgs_final_v1/913.jpg,Métouia,33.96533373,9.999484923,247,0,90,500,Tunisia
+imgs_final_v1/914.jpg,Oudtshoorn,-33.58199871,22.20029233,275,0,90,500,South Africa
+imgs_final_v1/915.jpg,Bolgatanga,10.78342206,-0.850538356,279,0,90,500,Ghana
+imgs_final_v1/916.jpg,Brakpan,-26.23431603,28.36910315,30,0,90,500,South Africa
+imgs_final_v1/917.jpg,Mānsa,29.99128344,75.39940963,185,0,90,500,India
+imgs_final_v1/918.jpg,Wukari,7.871009761,9.779367273,163,0,90,500,Nigeria
+imgs_final_v1/919.jpg,Kiambu,-1.166999877,36.81616683,79,0,90,500,Kenya
+imgs_final_v1/920.jpg,Ho,6.611393811,0.469736588,266,0,90,500,Ghana
+imgs_final_v1/921.jpg,Winneba,5.350270463,-0.625442985,46,0,90,500,Ghana
+imgs_final_v1/922.jpg,Ruhengeri,-1.501156225,29.63425603,151,0,90,500,Rwanda
+imgs_final_v1/923.jpg,Klerksdorp,-26.86564484,26.66657958,250,0,90,500,South Africa
+imgs_final_v1/924.jpg,Koforidua,6.083756202,-0.248496717,280,0,90,500,Ghana
+imgs_final_v1/925.jpg,Calabar,4.978241214,8.338407179,154,0,90,500,Nigeria
+imgs_final_v1/926.jpg,Nyeri,-0.417478258,36.94953104,214,0,90,500,Kenya
+imgs_final_v1/927.jpg,Vereeniging,-26.67411143,27.93247794,36,0,90,500,South Africa
+imgs_final_v1/928.jpg,Ariana,36.86382352,10.19543527,104,0,90,500,Tunisia
+imgs_final_v1/929.jpg,Bungoma,0.567127873,34.56653181,213,0,90,500,Kenya
+imgs_final_v1/930.jpg,Mopti,14.48866279,-4.180360212,62,0,90,500,Mali
+imgs_final_v1/931.jpg,Tema,5.66691879,-0.015973477,300,0,90,500,Ghana
+imgs_final_v1/932.jpg,Manzini,-26.48252452,31.36635172,251,0,90,500,Eswatini
+imgs_final_v1/933.jpg,Fouchana,36.69921653,10.16742126,86,0,90,500,Tunisia
+imgs_final_v1/934.jpg,Gisenyi,-1.699842874,29.25095129,355,0,90,500,Rwanda
+imgs_final_v1/935.jpg,Kendu Bay,-0.360145459,34.64082577,51,0,90,500,Kenya
+imgs_final_v1/936.jpg,Quezon City,14.65027686,121.0464631,265,0,90,500,Philippines
+imgs_final_v1/937.jpg,Bekasi,-6.234244853,106.9928625,225,0,90,500,Indonesia
+imgs_final_v1/938.jpg,Malang,-7.980601013,112.618618,247,0,90,500,Indonesia
+imgs_final_v1/939.jpg,Caloocan City,14.64919993,120.9707813,149,0,90,500,Philippines
+imgs_final_v1/940.jpg,Adana,37.00105672,35.32071452,23,0,90,500,Turkey
+imgs_final_v1/941.jpg,Taipei,25.03757205,121.5630678,305,0,90,500,Taiwan
+imgs_final_v1/942.jpg,Palembang,-2.986208511,104.7542444,317,0,90,500,Indonesia
+imgs_final_v1/943.jpg,Sūrat,21.17083654,72.83134357,152,0,90,500,India
+imgs_final_v1/944.jpg,Pune,18.52106806,73.85731489,270,0,90,500,India
+imgs_final_v1/945.jpg,Kaohsiung,22.6151358,120.29834,158,0,90,500,Taiwan
+imgs_final_v1/946.jpg,Mumbai,19.07559342,72.87605826,149,0,90,500,India
+imgs_final_v1/947.jpg,Ankara,39.93102131,32.84964822,337,0,90,500,Turkey
+imgs_final_v1/948.jpg,Kuala Lumpur,3.147705244,101.6940081,89,0,90,500,Malaysia
+imgs_final_v1/949.jpg,Fukuoka,33.59141361,130.4014535,327,0,90,500,Japan
+imgs_final_v1/950.jpg,Dubai,25.26237283,55.29609635,316,0,90,500,United Arab Emirates
+imgs_final_v1/951.jpg,Semarang,-6.991428631,110.4227947,27,0,90,500,Indonesia
+imgs_final_v1/952.jpg,Beijing,39.90612811,116.3992364,307,0,90,500,China
+imgs_final_v1/953.jpg,Mersin,36.80032221,34.63310222,319,0,90,500,Turkey
+imgs_final_v1/954.jpg,Madrid,40.41599933,-3.702900719,301,0,90,500,Spain
+imgs_final_v1/955.jpg,San José,9.933512259,-84.07988708,144,0,90,500,Costa Rica
+imgs_final_v1/956.jpg,Chennai,13.08303211,80.27483699,12,0,90,500,India
+imgs_final_v1/957.jpg,Yokohama,35.44462532,139.6371457,280,0,90,500,Japan
+imgs_final_v1/958.jpg,Lahore,31.54868568,74.34435055,245,0,90,500,Pakistan
+imgs_final_v1/959.jpg,İzmir,38.41872152,27.13964673,105,0,90,500,Turkey
+imgs_final_v1/960.jpg,Lucknow,26.85057857,80.94858594,229,0,90,500,India
+imgs_final_v1/961.jpg,Dhaka,23.76275797,90.38794036,77,0,90,500,Bangladesh
+imgs_final_v1/962.jpg,Beirut,33.89967899,35.50501172,42,0,90,500,Lebanon
+imgs_final_v1/963.jpg,Depok,-6.393992192,106.8212572,165,0,90,500,Indonesia
+imgs_final_v1/964.jpg,Istanbul,41.0147612,28.95619415,268,0,90,500,Turkey
+imgs_final_v1/965.jpg,San Juan,18.39974164,-66.06172629,28,0,90,500,Philippines
+imgs_final_v1/966.jpg,Barcelona,41.38409278,2.176061252,151,0,90,500,Spain
+imgs_final_v1/967.jpg,Johannesburg,-26.20520072,28.04612828,243,0,90,500,South Africa
+imgs_final_v1/968.jpg,Nairobi,-1.286509014,36.81602738,219,0,90,500,Kenya
+imgs_final_v1/969.jpg,Cape Town,-33.92669408,18.42326458,192,0,90,500,South Africa
+imgs_final_v1/970.jpg,Abuja,9.066481615,7.482019882,223,0,90,500,Nigeria
+imgs_final_v1/971.jpg,Ibadan,7.39618689,3.916681291,210,0,90,500,Nigeria
+imgs_final_v1/972.jpg,Kumasi,6.701460333,-1.625175586,311,0,90,500,Ghana
+imgs_final_v1/973.jpg,Accra,5.549070884,-0.199690435,239,0,90,500,Ghana
+imgs_final_v1/974.jpg,Antananarivo,-18.91079148,47.52421704,317,0,90,500,Madagascar
+imgs_final_v1/975.jpg,Awka,6.206550014,7.069103854,37,0,90,500,Nigeria
+imgs_final_v1/976.jpg,Kano,12.00049751,8.517256296,355,0,90,500,Nigeria
+imgs_final_v1/977.jpg,Port Harcourt,4.824772343,7.033885828,2,0,90,500,Nigeria
+imgs_final_v1/978.jpg,Kampala,0.31400219,32.58199051,334,0,90,500,Uganda
+imgs_final_v1/979.jpg,Kigali,-1.943464381,30.05913488,93,0,90,500,Rwanda
+imgs_final_v1/980.jpg,East London,-33.0180989,27.9030697,235,0,90,500,South Africa
+imgs_final_v1/981.jpg,Eldoret,0.516821419,35.28210443,288,0,90,500,Kenya
+imgs_final_v1/982.jpg,Gaya,24.75034792,85.01024821,95,0,90,500,India
+imgs_final_v1/983.jpg,Ado-Ekiti,7.620164702,5.220376059,190,0,90,500,Nigeria
+imgs_final_v1/984.jpg,Sokoto,13.06267746,5.233530393,117,0,90,500,Nigeria
+imgs_final_v1/985.jpg,Kisumu,-0.082070544,34.76613434,241,0,90,500,Kenya
+imgs_final_v1/986.jpg,Zaria,11.06515195,7.699953834,226,0,90,500,Nigeria
+imgs_final_v1/987.jpg,Kumi,36.11943646,128.3458995,222,0,90,500,"Korea, South"
+imgs_final_v1/988.jpg,Thiès,14.78284998,-16.91586167,328,0,90,500,Senegal
+imgs_final_v1/989.jpg,Yola,9.229709498,12.46005779,115,0,90,500,Nigeria
+imgs_final_v1/990.jpg,Oyo,7.850020459,3.932136932,208,0,90,500,Nigeria
+imgs_final_v1/991.jpg,Korba,22.34622303,82.69558263,222,0,90,500,India
+imgs_final_v1/992.jpg,Warri,5.515791982,5.749770698,249,0,90,500,Nigeria
+imgs_final_v1/993.jpg,Umuahia,5.533326803,7.482773867,90,0,90,500,Nigeria
+imgs_final_v1/994.jpg,Nara,34.68420567,135.805522,23,0,90,500,Japan
+imgs_final_v1/995.jpg,Maseru,-29.3099812,27.47975425,194,0,90,500,Lesotho
+imgs_final_v1/996.jpg,Randburg,-26.09363822,28.00700165,296,0,90,500,South Africa
+imgs_final_v1/997.jpg,Lafia,8.491184086,8.515894046,236,0,90,500,Nigeria
+imgs_final_v1/998.jpg,Roodepoort,-26.16214539,27.87156445,22,0,90,500,South Africa
+imgs_final_v1/999.jpg,Muhanga,-2.083500239,29.75201592,72,0,90,500,Rwanda
+imgs_final_v1/1000.jpg,Minna,9.612776576,6.556308695,105,0,90,500,Nigeria
+imgs_final_v1/1001.jpg,Sekondi,4.943554869,-1.705535772,333,0,90,500,Ghana
+imgs_final_v1/1002.jpg,Gombe,10.28930609,11.17104163,276,0,90,500,Nigeria
+imgs_final_v1/1003.jpg,Sfax,34.73975868,10.76091959,88,0,90,500,Tunisia
+imgs_final_v1/1004.jpg,Yao,34.62688838,135.6018477,68,0,90,500,Japan
+imgs_final_v1/1005.jpg,Ondo,7.084045062,4.833449009,289,0,90,500,Nigeria
+imgs_final_v1/1006.jpg,Bloemfontein,-29.11597374,26.21686549,345,0,90,500,South Africa
+imgs_final_v1/1007.jpg,Sapele,5.900259721,5.667655459,145,0,90,500,Nigeria
+imgs_final_v1/1008.jpg,Centurion,-25.85942512,28.18945231,2,0,90,500,South Africa
+imgs_final_v1/1009.jpg,Iseyin,7.968003242,3.600340665,339,0,90,500,Nigeria
+imgs_final_v1/1010.jpg,Gaborone,-24.65829057,25.91166493,357,0,90,500,Botswana
+imgs_final_v1/1011.jpg,Ijebu-Ode,6.821548863,3.919980449,358,0,90,500,Nigeria
+imgs_final_v1/1012.jpg,Sandton,-26.10700156,28.05295023,97,0,90,500,South Africa
+imgs_final_v1/1013.jpg,Owo,7.196785183,5.586890529,53,0,90,500,Nigeria
+imgs_final_v1/1014.jpg,Sousse,35.83308334,10.63283023,244,0,90,500,Tunisia
+imgs_final_v1/1015.jpg,Rufisque,14.7181919,-17.26666181,38,0,90,500,Senegal
+imgs_final_v1/1016.jpg,Apapa,6.451468007,3.366632276,76,0,90,500,Nigeria
+imgs_final_v1/1017.jpg,Sunyani,7.332407427,-2.332083142,4,0,90,500,Ghana
+imgs_final_v1/1018.jpg,Formosa,-26.18429245,-58.18207979,309,0,90,500,Argentina
+imgs_final_v1/1019.jpg,Campina Grande,-7.231302901,-35.88195833,342,0,90,500,Brazil
+imgs_final_v1/1020.jpg,Juliaca,-15.48387073,-70.13214772,77,0,90,500,Peru
+imgs_final_v1/1021.jpg,Barueri,-23.5124331,-46.87688237,144,0,90,500,Brazil
+imgs_final_v1/1022.jpg,Chapecó,-27.09625522,-52.61856777,325,0,90,500,Brazil
+imgs_final_v1/1023.jpg,Uberaba,-19.74872312,-47.93063003,225,0,90,500,Brazil
+imgs_final_v1/1024.jpg,Piracicaba,-22.72586356,-47.64972031,324,0,90,500,Brazil
+imgs_final_v1/1025.jpg,Indaiatuba,-23.09034658,-47.2187626,78,0,90,500,Brazil
+imgs_final_v1/1026.jpg,Governador Valadares,-18.85079077,-41.93444341,23,0,90,500,Brazil
+imgs_final_v1/1027.jpg,Coquimbo,-29.9542462,-71.34282973,233,0,90,500,Chile
+imgs_final_v1/1028.jpg,Callao,-12.05351358,-77.13959996,116,0,90,500,Peru
+imgs_final_v1/1029.jpg,Eloy Alfaro,-2.173555224,-79.83196588,140,0,90,500,Ecuador
+imgs_final_v1/1030.jpg,Porto Velho,-8.760476338,-63.90353985,324,0,90,500,Brazil
+imgs_final_v1/1031.jpg,José C. Paz,-34.51639728,-58.76512782,260,0,90,500,Argentina
+imgs_final_v1/1032.jpg,Las Condes,-33.41288726,-70.54905889,347,0,90,500,Chile
+imgs_final_v1/1033.jpg,Guarujá,-23.99408796,-46.25645933,308,0,90,500,Brazil
+imgs_final_v1/1034.jpg,Paraná,-31.73297787,-60.52974267,119,0,90,500,Argentina
+imgs_final_v1/1035.jpg,São José de Ribamar,-2.551204646,-44.05057089,253,0,90,500,Brazil
+imgs_final_v1/1036.jpg,Granada,37.17855668,-3.60169293,358,0,90,500,Spain
+imgs_final_v1/1037.jpg,San Salvador de Jujuy,-24.18303983,-65.29931143,121,0,90,500,Argentina
+imgs_final_v1/1038.jpg,Santa Luzia,-19.76969354,-43.85089967,205,0,90,500,Brazil
+imgs_final_v1/1039.jpg,Parnamirim,-5.916693983,-35.25127411,293,0,90,500,Brazil
+imgs_final_v1/1040.jpg,Taubaté,-23.02470536,-45.55622083,115,0,90,500,Brazil
+imgs_final_v1/1041.jpg,Temuco,-38.73202706,-72.6673055,1,0,90,500,Chile
+imgs_final_v1/1042.jpg,Neiva,2.934648795,-75.28036083,201,0,90,500,Colombia
+imgs_final_v1/1043.jpg,Tarija,-21.53449018,-64.73409224,303,0,90,500,Bolivia
+imgs_final_v1/1044.jpg,Limeira,-22.56369646,-47.40141372,219,0,90,500,Brazil
+imgs_final_v1/1045.jpg,San Bernardo,-33.58363084,-70.70123236,177,0,90,500,Chile
+imgs_final_v1/1046.jpg,Tumaco,1.80660096,-78.76593735,155,0,90,500,Colombia
+imgs_final_v1/1047.jpg,Araraquara,-21.79500551,-48.17681845,20,0,90,500,Brazil
+imgs_final_v1/1048.jpg,Santa Rosa,14.31940589,121.120563,147,0,90,500,Brazil
+imgs_final_v1/1049.jpg,Palmas,-10.18376953,-48.33383971,183,0,90,500,Brazil
+imgs_final_v1/1050.jpg,Juazeiro,-9.431611067,-40.50189134,203,0,90,500,Brazil
+imgs_final_v1/1051.jpg,Rondonópolis,-16.46590414,-54.63459426,155,0,90,500,Brazil
+imgs_final_v1/1052.jpg,Hortolândia,-22.85780186,-47.22011765,178,0,90,500,Brazil
+imgs_final_v1/1053.jpg,Machala,-3.267129352,-79.96725947,38,0,90,500,Ecuador
+imgs_final_v1/1054.jpg,Santo Domingo de los Colorados,-0.254000973,-79.1704595,331,0,90,500,Ecuador
+imgs_final_v1/1055.jpg,Petrópolis,-22.50425944,-43.18039518,115,0,90,500,Brazil
+imgs_final_v1/1056.jpg,Bauru,-22.31593011,-49.06074372,172,0,90,500,Brazil
+imgs_final_v1/1057.jpg,Cajamarca,-7.165973963,-78.51679294,124,0,90,500,Peru
+imgs_final_v1/1058.jpg,Corrientes,-27.48428411,-58.81660967,348,0,90,500,Argentina
+imgs_final_v1/1059.jpg,Vitória,-20.28918123,-40.30844221,114,0,90,500,Brazil
+imgs_final_v1/1060.jpg,Gravataí,-29.93247884,-50.98308846,88,0,90,500,Brazil
+imgs_final_v1/1061.jpg,Camaçari,-12.69633708,-38.32407126,297,0,90,500,Brazil
+imgs_final_v1/1062.jpg,Popayán,2.453565187,-76.6086061,63,0,90,500,Colombia
+imgs_final_v1/1063.jpg,Petrolina,-9.382689214,-40.50263892,189,0,90,500,Brazil
+imgs_final_v1/1064.jpg,Arapiraca,-9.751608718,-36.66056785,26,0,90,500,Brazil
+imgs_final_v1/1065.jpg,Salamanca,20.57185704,-101.1972043,271,0,90,500,Mexico
+imgs_final_v1/1066.jpg,Cascavel,-24.95547101,-53.4565545,270,0,90,500,Brazil
+imgs_final_v1/1067.jpg,Valencia,7.903550097,125.0924093,277,0,90,500,Venezuela
+imgs_final_v1/1068.jpg,Blumenau,-26.93204219,-49.05081607,328,0,90,500,Brazil
+imgs_final_v1/1069.jpg,Huancayo,-12.06685103,-75.21668767,6,0,90,500,Peru
+imgs_final_v1/1070.jpg,Guadalupe,22.75416102,-102.5085454,294,0,90,500,Mexico
+imgs_final_v1/1071.jpg,Mogi das Cruzes,-23.52233165,-46.18886472,216,0,90,500,Brazil
+imgs_final_v1/1072.jpg,Volta Redonda,-22.52296348,-44.10296577,16,0,90,500,Brazil
+imgs_final_v1/1073.jpg,Caucaia,-3.716307895,-38.649164,189,0,90,500,Brazil
+imgs_final_v1/1074.jpg,Tarapoto,-6.484843552,-76.36687472,48,0,90,500,Peru
+imgs_final_v1/1075.jpg,Imperatriz,-5.533327704,-47.4819218,6,0,90,500,Brazil
+imgs_final_v1/1076.jpg,Anápolis,-16.3343608,-48.95225592,108,0,90,500,Brazil
+imgs_final_v1/1077.jpg,Americana,-22.73908673,-47.33099169,258,0,90,500,Brazil
+imgs_final_v1/1078.jpg,Cotia,-23.60377519,-46.91845955,76,0,90,500,Brazil
+imgs_final_v1/1079.jpg,Villa Nueva,14.52788001,-90.58794329,15,0,90,500,Guatemala
+imgs_final_v1/1080.jpg,Chita,52.04949335,113.467584,356,0,90,500,Russia
+imgs_final_v1/1081.jpg,Maracanaú,-3.866860398,-38.6341038,132,0,90,500,Brazil
+imgs_final_v1/1082.jpg,Tacna,-18.01549175,-70.24966926,275,0,90,500,Peru
+imgs_final_v1/1083.jpg,Envigado,6.167015071,-75.56536705,203,0,90,500,Colombia
+imgs_final_v1/1084.jpg,La Florida,-33.53204968,-70.58414324,252,0,90,500,Chile
+imgs_final_v1/1085.jpg,Barrancabermeja,7.067029837,-73.84984298,345,0,90,500,Colombia
+imgs_final_v1/1086.jpg,Pasto,1.207650407,-77.27858109,245,0,90,500,Colombia
+imgs_final_v1/1087.jpg,Dourados,-22.22076257,-54.80414327,187,0,90,500,Brazil
+imgs_final_v1/1088.jpg,Novo Hamburgo,-29.67686301,-51.12937122,304,0,90,500,Brazil
+imgs_final_v1/1089.jpg,Iquitos,-3.750062746,-73.2515113,199,0,90,500,Peru
+imgs_final_v1/1090.jpg,Manizales,5.10085793,-75.55102003,102,0,90,500,Colombia
+imgs_final_v1/1091.jpg,Merlo,-34.66514644,-58.72603225,174,0,90,500,Argentina
+imgs_final_v1/1092.jpg,Banfield,-34.75048545,-58.3819153,34,0,90,500,Argentina
+imgs_final_v1/1093.jpg,Piura,-5.200071774,-80.63449794,206,0,90,500,Peru
+imgs_final_v1/1094.jpg,Diadema,-23.68543232,-46.61119438,232,0,90,500,Brazil
+imgs_final_v1/1095.jpg,Santo Tomas,14.08020837,121.1803723,125,0,90,500,Philippines
+imgs_final_v1/1096.jpg,Ananindeua,-1.3643418,-48.37132898,308,0,90,500,Brazil
+imgs_final_v1/1097.jpg,Caruaru,-8.28330333,-35.9759052,205,0,90,500,Brazil
+imgs_final_v1/1098.jpg,Divinópolis,-20.1401893,-44.88403273,237,0,90,500,Brazil
+imgs_final_v1/1099.jpg,Colombo,-25.29309179,-49.22471411,90,0,90,500,Brazil
+imgs_final_v1/1100.jpg,Groningen,53.21850962,6.56967519,286,0,90,500,Netherlands
+imgs_final_v1/1101.jpg,Lanús,-34.70037055,-58.4011371,207,0,90,500,Argentina
+imgs_final_v1/1102.jpg,San Pedro,14.35818527,121.0578361,30,0,90,500,Philippines
+imgs_final_v1/1103.jpg,Passo Fundo,-28.25043349,-52.40063208,4,0,90,500,Brazil
+imgs_final_v1/1104.jpg,Rancagua,-34.16561905,-70.74882672,324,0,90,500,Chile
+imgs_final_v1/1105.jpg,Niterói,-22.8822689,-43.10453049,8,0,90,500,Brazil
+imgs_final_v1/1106.jpg,Criciúma,-28.67717099,-49.37094382,85,0,90,500,Brazil
+imgs_final_v1/1107.jpg,Ipatinga,-19.49927893,-42.5344201,124,0,90,500,Brazil
+imgs_final_v1/1108.jpg,São Carlos,-21.99968492,-47.89025813,102,0,90,500,Brazil
+imgs_final_v1/1109.jpg,Córdoba,37.88449304,-4.780498753,297,0,90,500,Spain
+imgs_final_v1/1110.jpg,Oruro,-17.96653156,-67.11574459,276,0,90,500,Bolivia
+imgs_final_v1/1111.jpg,Portoviejo,-1.05520997,-80.4564971,76,0,90,500,Ecuador
+imgs_final_v1/1112.jpg,Carapicuíba,-23.51847356,-46.83530019,88,0,90,500,Brazil
+imgs_final_v1/1113.jpg,Ponta Grossa,-25.09836484,-50.15777368,68,0,90,500,Brazil
+imgs_final_v1/1114.jpg,Talca,-35.42702844,-71.66615397,344,0,90,500,Chile
+imgs_final_v1/1115.jpg,Presidente Prudente,-22.12499031,-51.38802916,247,0,90,500,Brazil
+imgs_final_v1/1116.jpg,Araçatuba,-21.20936526,-50.43143568,183,0,90,500,Brazil
+imgs_final_v1/1117.jpg,Jundiaí,-23.18667311,-46.88295186,95,0,90,500,Brazil
+imgs_final_v1/1118.jpg,Maringá,-23.39920017,-51.91609815,169,0,90,500,Brazil
+imgs_final_v1/1119.jpg,Magé,-22.65293187,-43.03961214,235,0,90,500,Brazil
+imgs_final_v1/1120.jpg,Neuquén,-38.95301821,-68.06430554,287,0,90,500,Argentina
+imgs_final_v1/1121.jpg,Floridablanca,7.215828062,-73.06737299,198,0,90,500,Colombia
+imgs_final_v1/1122.jpg,Quilmes,-34.71745884,-58.2669982,343,0,90,500,Argentina
+imgs_final_v1/1123.jpg,Valparaíso,-33.04763377,-71.61992263,15,0,90,500,Chile
+imgs_final_v1/1124.jpg,Chimbote,-9.074581802,-78.59233252,242,0,90,500,Peru
+imgs_final_v1/1125.jpg,Palmira,3.583593911,-76.24892738,12,0,90,500,Colombia
+imgs_final_v1/1126.jpg,Pucallpa,-8.384287433,-74.55022158,299,0,90,500,Peru
+imgs_final_v1/1127.jpg,Oruro,-17.98300025,-67.14862922,283,0,90,500,Bolivia
+imgs_final_v1/1128.jpg,Sucre,-19.04721471,-65.26035802,330,0,90,500,Bolivia
+imgs_final_v1/1129.jpg,Rio Claro,-22.41129463,-47.56122985,201,0,90,500,Brazil
+imgs_final_v1/1130.jpg,São Leopoldo,-29.7589179,-51.14673153,10,0,90,500,Brazil
+imgs_final_v1/1131.jpg,Olinda,-7.999779214,-34.88470852,23,0,90,500,Brazil
+imgs_final_v1/1132.jpg,Ica,-14.06632924,-75.73453888,283,0,90,500,Peru
+imgs_final_v1/1133.jpg,Santo Agostinho,-8.289622072,-35.03073479,276,0,90,500,Brazil
+imgs_final_v1/1134.jpg,Franca,-20.53919447,-47.40007647,2,0,90,500,Brazil
+imgs_final_v1/1135.jpg,Itapevi,-23.54947231,-46.93520385,302,0,90,500,Brazil
+imgs_final_v1/1136.jpg,São José do Rio Prêto,-20.80759157,-49.38242509,56,0,90,500,Brazil
+imgs_final_v1/1137.jpg,Mossoró,-5.187030629,-37.34270229,242,0,90,500,Brazil
+imgs_final_v1/1138.jpg,Paulista,-7.941481755,-34.87275985,114,0,90,500,Brazil
+imgs_final_v1/1139.jpg,Jacareí,-23.30604749,-45.96575944,65,0,90,500,Brazil
+imgs_final_v1/1140.jpg,Sobral,-3.67532586,-40.23879271,146,0,90,500,Brazil
+imgs_final_v1/1141.jpg,Viamão,-30.07959113,-51.02309518,139,0,90,500,Brazil
+imgs_final_v1/1142.jpg,Toledo,10.38053527,123.6498744,227,0,90,500,Brazil
+imgs_final_v1/1143.jpg,Cariacica,-20.2635917,-40.41906385,86,0,90,500,Brazil
+imgs_final_v1/1144.jpg,Santa Rosa,38.44613095,-122.7057072,162,0,90,500,Brazil
+imgs_final_v1/1145.jpg,Itaquaquecetuba,-23.48575863,-46.34945714,144,0,90,500,Brazil
+imgs_final_v1/1146.jpg,Vila Velha,-20.33540299,-40.29403094,267,0,90,500,Brazil
+imgs_final_v1/1147.jpg,Manta,-0.951161164,-80.71718162,335,0,90,500,Ecuador
+imgs_final_v1/1148.jpg,Juazeiro do Norte,-7.200143131,-39.33196437,313,0,90,500,Brazil
+imgs_final_v1/1149.jpg,Resistencia,-27.45157835,-58.98693229,230,0,90,500,Argentina
+imgs_final_v1/1150.jpg,Sincelejo,9.295769308,-75.39552693,319,0,90,500,Colombia
+imgs_final_v1/1151.jpg,Caxias do Sul,-29.16629646,-51.18175791,304,0,90,500,Brazil
+imgs_final_v1/1152.jpg,Cusco,-13.52615608,-71.97130026,156,0,90,500,Peru
+imgs_final_v1/1153.jpg,Jabalpur,23.16656836,79.93210293,134,0,90,500,India
+imgs_final_v1/1154.jpg,Setagaya,35.64695744,139.6539782,251,0,90,500,Japan
+imgs_final_v1/1155.jpg,Murcia,37.98690596,-1.130454568,341,0,90,500,Spain
+imgs_final_v1/1156.jpg,Hubli,15.35154305,75.13832591,35,0,90,500,India
+imgs_final_v1/1157.jpg,Sungai Petani,5.648945622,100.4993703,250,0,90,500,Malaysia
+imgs_final_v1/1158.jpg,Vellore,12.91792686,79.13204407,147,0,90,500,India
+imgs_final_v1/1159.jpg,Al ‘Ayn,24.20889951,55.74450538,113,0,90,500,United Arab Emirates
+imgs_final_v1/1160.jpg,Surakarta,-7.567997641,110.8162549,120,0,90,500,Indonesia
+imgs_final_v1/1161.jpg,Tel Aviv-Yafo,32.07990036,34.77923115,160,0,90,500,Israel
+imgs_final_v1/1162.jpg,Samsun,41.29145199,36.33268486,267,0,90,500,Turkey
+imgs_final_v1/1163.jpg,Santo Domingo,18.46529691,-69.94973513,187,0,90,500,Dominican Republic
+imgs_final_v1/1164.jpg,Amritsar,31.63988922,74.86121445,235,0,90,500,India
+imgs_final_v1/1165.jpg,Iloilo,10.72135167,122.5699714,353,0,90,500,Philippines
+imgs_final_v1/1166.jpg,Ipoh,4.597957386,101.0740947,241,0,90,500,Malaysia
+imgs_final_v1/1167.jpg,Ujjain,23.16990471,75.7905021,14,0,90,500,India
+imgs_final_v1/1168.jpg,Makassar,-5.162942822,119.4363271,291,0,90,500,Indonesia
+imgs_final_v1/1169.jpg,Sharjah,25.35682676,55.39219851,27,0,90,500,United Arab Emirates
+imgs_final_v1/1170.jpg,Cilacap,-7.717314555,109.0163798,83,0,90,500,Indonesia
+imgs_final_v1/1171.jpg,Meerut,28.97943613,77.70989785,78,0,90,500,India
+imgs_final_v1/1172.jpg,Bishkek,42.87332095,74.61321875,72,0,90,500,Kyrgyzstan
+imgs_final_v1/1173.jpg,Banjarmasin,-3.32016663,114.5924035,175,0,90,500,Indonesia
+imgs_final_v1/1174.jpg,Gurgaon,28.45600831,77.03043718,40,0,90,500,India
+imgs_final_v1/1175.jpg,Nerima,35.73663201,139.6520453,86,0,90,500,Japan
+imgs_final_v1/1176.jpg,Guntūr,16.29965632,80.44276406,10,0,90,500,India
+imgs_final_v1/1177.jpg,Serang,-6.119387775,106.1494896,272,0,90,500,Indonesia
+imgs_final_v1/1178.jpg,Cimahi,-6.871663995,107.5544258,239,0,90,500,Indonesia
+imgs_final_v1/1179.jpg,Shizuoka,34.97664269,138.3831622,60,0,90,500,Japan
+imgs_final_v1/1180.jpg,Bhilai,21.21001547,81.38146866,259,0,90,500,India
+imgs_final_v1/1181.jpg,Niigata,37.91762403,139.0360948,289,0,90,500,Japan
+imgs_final_v1/1182.jpg,Himeji,34.81690925,134.6817147,177,0,90,500,Japan
+imgs_final_v1/1183.jpg,Muntinlupa City,14.38064158,121.0487158,121,0,90,500,Philippines
+imgs_final_v1/1184.jpg,Dispur,26.13919323,91.79341905,50,0,90,500,India
+imgs_final_v1/1185.jpg,Makati City,14.55795043,121.020731,252,0,90,500,Philippines
+imgs_final_v1/1186.jpg,Mérida,20.96880635,-89.62072989,278,0,90,500,Mexico
+imgs_final_v1/1187.jpg,Ajmer,26.45070074,74.64099408,139,0,90,500,India
+imgs_final_v1/1188.jpg,Agartala,23.831252,91.28572261,123,0,90,500,India
+imgs_final_v1/1189.jpg,Padang,-0.948921751,100.3520268,87,0,90,500,Indonesia
+imgs_final_v1/1190.jpg,Sakai,34.57227032,135.4819558,206,0,90,500,Japan
+imgs_final_v1/1191.jpg,Itabashi,35.76779196,139.684146,253,0,90,500,Japan
+imgs_final_v1/1192.jpg,Bogor,-6.595635206,106.796319,288,0,90,500,Indonesia
+imgs_final_v1/1193.jpg,Hamamatsu,34.71198364,137.7280364,305,0,90,500,Japan
+imgs_final_v1/1194.jpg,Xalapa,19.5404436,-96.92864601,251,0,90,500,Mexico
+imgs_final_v1/1195.jpg,Port St. Lucie,27.27998628,-80.38739249,212,0,90,500,United States
+imgs_final_v1/1196.jpg,Amarillo,35.19770705,-101.8325795,228,0,90,500,United States
+imgs_final_v1/1197.jpg,Jiutepec,18.88236589,-99.16607997,251,0,90,500,Mexico
+imgs_final_v1/1198.jpg,Kalamazoo,42.27597215,-85.58788954,359,0,90,500,United States
+imgs_final_v1/1199.jpg,Arlington,38.87763594,-77.10088889,95,0,90,500,United States
+imgs_final_v1/1200.jpg,San Bernardino,34.14216747,-117.2935938,23,0,90,500,United States
+imgs_final_v1/1201.jpg,Portland,43.67687468,-70.26970261,75,0,90,500,United States
+imgs_final_v1/1202.jpg,Spokane,47.66651968,-117.4347271,58,0,90,500,United States
+imgs_final_v1/1203.jpg,Winter Haven,28.01080634,-81.70168541,312,0,90,500,United States
+imgs_final_v1/1204.jpg,Coventry,52.40687576,-1.510817995,299,0,90,500,United Kingdom
+imgs_final_v1/1205.jpg,Geneva,46.20132819,6.147496894,208,0,90,500,Switzerland
+imgs_final_v1/1206.jpg,Brownsville,25.99635266,-97.45884101,231,0,90,500,United States
+imgs_final_v1/1207.jpg,Tehuacán,18.46103456,-97.39287875,267,0,90,500,Mexico
+imgs_final_v1/1208.jpg,Columbus,32.50890394,-84.87682581,95,0,90,500,United States
+imgs_final_v1/1209.jpg,San Nicolás de los Garza,25.75075171,-100.2830162,28,0,90,500,Mexico
+imgs_final_v1/1210.jpg,Fort Collins,40.54914834,-105.0648487,177,0,90,500,United States
+imgs_final_v1/1211.jpg,Lakeland,28.05550653,-81.95415372,264,0,90,500,United States
+imgs_final_v1/1212.jpg,Durham,35.97842818,-78.90200506,147,0,90,500,United States
+imgs_final_v1/1213.jpg,Springfield,42.11428787,-72.53856633,234,0,90,500,United States
+imgs_final_v1/1214.jpg,Tampico,22.25556451,-97.86835944,75,0,90,500,Mexico
+imgs_final_v1/1215.jpg,Salt Lake City,22.6110866,88.39928582,226,0,90,500,United States
+imgs_final_v1/1216.jpg,Monclova,26.91034586,-101.4208843,22,0,90,500,Mexico
+imgs_final_v1/1217.jpg,Madison,43.0811276,-89.39409593,223,0,90,500,United States
+imgs_final_v1/1218.jpg,Fayetteville,35.0861542,-78.97841959,48,0,90,500,United States
+imgs_final_v1/1219.jpg,St. Paul,44.94742268,-93.10229487,53,0,90,500,United States
+imgs_final_v1/1220.jpg,Longueuil,45.53434324,-73.51780036,19,0,90,500,Canada
+imgs_final_v1/1221.jpg,Flint,43.02260396,-83.69289436,231,0,90,500,United States
+imgs_final_v1/1222.jpg,London,42.98333552,-81.25107389,153,0,90,500,United Kingdom
+imgs_final_v1/1223.jpg,Cuernavaca,18.91962173,-99.23502705,66,0,90,500,Mexico
+imgs_final_v1/1224.jpg,Oakland,37.78955116,-122.2181487,281,0,90,500,United States
+imgs_final_v1/1225.jpg,Lubbock,33.56469837,-101.8867793,145,0,90,500,United States
+imgs_final_v1/1226.jpg,Windsor,42.28193312,-83.00018121,334,0,90,500,Canada
+imgs_final_v1/1227.jpg,Toluca,19.29220425,-99.65770973,337,0,90,500,Mexico
+imgs_final_v1/1228.jpg,Plymouth,50.37211513,-4.140358319,6,0,90,500,United Kingdom
+imgs_final_v1/1229.jpg,Jersey City,40.71734329,-74.0689666,176,0,90,500,United States
+imgs_final_v1/1230.jpg,Bradford,53.8011604,-1.748502048,229,0,90,500,United Kingdom
+imgs_final_v1/1231.jpg,Halifax,44.64866985,-63.59014814,152,0,90,500,Canada
+imgs_final_v1/1232.jpg,Puerto Vallarta,20.64535008,-105.2235089,265,0,90,500,Mexico
+imgs_final_v1/1233.jpg,Jackson,32.3150294,-90.21399099,265,0,90,500,United States
+imgs_final_v1/1234.jpg,Evansville,37.98812075,-87.53367417,145,0,90,500,United States
+imgs_final_v1/1235.jpg,Nuevo Laredo,27.4860482,-99.50844234,255,0,90,500,Mexico
+imgs_final_v1/1236.jpg,Fresnillo,23.17517537,-102.8659752,274,0,90,500,Mexico
+imgs_final_v1/1237.jpg,Tapachula,14.90145721,-92.26691723,261,0,90,500,Mexico
+imgs_final_v1/1238.jpg,Richmond,49.16551841,-123.1319332,323,0,90,500,United States
+imgs_final_v1/1239.jpg,Rockford,42.25996822,-89.06193864,267,0,90,500,United States
+imgs_final_v1/1240.jpg,Youngstown,41.09883528,-80.64436276,328,0,90,500,United States
+imgs_final_v1/1241.jpg,Greensboro,36.09679707,-79.82672577,184,0,90,500,United States
+imgs_final_v1/1242.jpg,Glendale,33.57810337,-112.2308857,237,0,90,500,United States
+imgs_final_v1/1243.jpg,Ipswich,-27.61438175,152.7596252,250,0,90,500,Australia
+imgs_final_v1/1244.jpg,Verona,45.4376829,10.9924183,344,0,90,500,Italy
+imgs_final_v1/1245.jpg,Santa Ana,14.58097961,121.0115993,77,0,90,500,Philippines
+imgs_final_v1/1246.jpg,Irving,32.85825707,-96.97193043,210,0,90,500,United States
+imgs_final_v1/1247.jpg,Ciudad Santa Catarina,25.68383084,-100.4496062,327,0,90,500,Mexico
+imgs_final_v1/1248.jpg,Saskatoon,52.13398545,-106.6828847,167,0,90,500,Canada
+imgs_final_v1/1249.jpg,Enterprise,36.00942428,-115.2266033,58,0,90,500,United States
+imgs_final_v1/1250.jpg,Uruapan,19.4199853,-102.0623179,314,0,90,500,Mexico
+imgs_final_v1/1251.jpg,Bolton,53.57733971,-2.428290033,266,0,90,500,United Kingdom
+imgs_final_v1/1252.jpg,Tepic,21.50808814,-104.8920761,235,0,90,500,Mexico
+imgs_final_v1/1253.jpg,San Pedro Carchá,15.46748946,-90.30049351,347,0,90,500,Guatemala
+imgs_final_v1/1254.jpg,Oyster Bay,40.78527063,-73.51301163,214,0,90,500,United States
+imgs_final_v1/1255.jpg,Canton,40.80836945,-81.36714232,262,0,90,500,United States
+imgs_final_v1/1256.jpg,Lorain,41.44158141,-82.18264808,30,0,90,500,United States
+imgs_final_v1/1257.jpg,Lexington,38.04325365,-84.4572045,108,0,90,500,United States
+imgs_final_v1/1258.jpg,Chattanooga,35.06613827,-85.24903187,184,0,90,500,United States
+imgs_final_v1/1259.jpg,Huixquilucan,19.35984269,-99.35154685,219,0,90,500,Mexico
+imgs_final_v1/1260.jpg,Gatineau,45.48338077,-75.65048281,337,0,90,500,Canada
+imgs_final_v1/1261.jpg,Long Beach,33.79662481,-118.1676316,108,0,90,500,United States
+imgs_final_v1/1262.jpg,Anaheim,33.83932832,-117.856583,242,0,90,500,United States
+imgs_final_v1/1263.jpg,Shreveport,32.46568015,-93.79678618,92,0,90,500,United States
+imgs_final_v1/1264.jpg,Heroica Nogales,31.31841747,-110.9461349,271,0,90,500,Mexico
+imgs_final_v1/1265.jpg,Quetzaltenango,14.83403151,-91.51799491,133,0,90,500,Guatemala
+imgs_final_v1/1266.jpg,Oshawa,43.90083663,-78.85023951,167,0,90,500,Canada
+imgs_final_v1/1267.jpg,Garland,32.9091278,-96.62971788,70,0,90,500,United States
+imgs_final_v1/1268.jpg,Oviedo,43.36038372,-5.846907254,248,0,90,500,Spain
+imgs_final_v1/1269.jpg,Round Lake Beach,42.3783584,-88.08231796,179,0,90,500,United States
+imgs_final_v1/1270.jpg,Lancaster,40.04243854,-76.29928167,217,0,90,500,United States
+imgs_final_v1/1271.jpg,Boise,43.60071,-116.229694,313,0,90,500,United States
+imgs_final_v1/1272.jpg,Fayetteville,36.07002728,-94.16639264,288,0,90,500,United States
+imgs_final_v1/1273.jpg,Syracuse,43.04048019,-76.14357949,276,0,90,500,United States
+imgs_final_v1/1274.jpg,Scranton,41.4046148,-75.66631676,180,0,90,500,United States
+imgs_final_v1/1275.jpg,Armenia,4.529830985,-75.67879372,293,0,90,500,Colombia
+imgs_final_v1/1276.jpg,Davenport,41.55735676,-90.60658982,328,0,90,500,United States
+imgs_final_v1/1277.jpg,Kiel,54.32416187,10.13746263,355,0,90,500,Germany
+imgs_final_v1/1278.jpg,Villahermosa,17.98883793,-92.9291132,192,0,90,500,Mexico
+imgs_final_v1/1279.jpg,Newark,40.72446236,-74.17282541,205,0,90,500,United States
+imgs_final_v1/1280.jpg,Gilbert,33.31096743,-111.7456742,180,0,90,500,United States
+imgs_final_v1/1281.jpg,Olympia,47.04287369,-122.896614,165,0,90,500,United States
+imgs_final_v1/1282.jpg,Vaughan,43.83270773,-79.49895195,237,0,90,500,Canada
+imgs_final_v1/1283.jpg,Indio,33.73408463,-116.2351536,290,0,90,500,United States
+imgs_final_v1/1284.jpg,Hialeah,25.86994248,-80.30479056,353,0,90,500,United States
+imgs_final_v1/1285.jpg,Kennewick,46.19919397,-119.1733601,92,0,90,500,United States
+imgs_final_v1/1286.jpg,Nogales,31.30121265,-110.9336596,65,0,90,500,Mexico
+imgs_final_v1/1287.jpg,Frisco,33.1553024,-96.82221676,137,0,90,500,United States
+imgs_final_v1/1288.jpg,Campeche,19.85053201,-90.5303943,27,0,90,500,Mexico
+imgs_final_v1/1289.jpg,Rock Hill,34.94041644,-81.02287482,1,0,90,500,United States
+imgs_final_v1/1290.jpg,Northampton,52.23107112,-0.895367754,310,0,90,500,United Kingdom
+imgs_final_v1/1291.jpg,Harrisburg,40.27567747,-76.88513954,180,0,90,500,United States
+imgs_final_v1/1292.jpg,Ciudad López Mateos,19.550495,-99.28301688,232,0,90,500,Mexico
+imgs_final_v1/1293.jpg,Lansing,42.71417993,-84.56172827,7,0,90,500,United States
+imgs_final_v1/1294.jpg,Trenton,40.22395716,-74.76406702,75,0,90,500,United States
+imgs_final_v1/1295.jpg,San Juan del Río,20.38429237,-99.98202436,353,0,90,500,Mexico
+imgs_final_v1/1296.jpg,Waterbury,41.55711731,-73.03716624,328,0,90,500,United States
+imgs_final_v1/1297.jpg,North Hempstead,40.79085321,-73.66921503,327,0,90,500,United States
+imgs_final_v1/1298.jpg,Santa Ana,33.73618947,-117.8826771,296,0,90,500,Philippines
+imgs_final_v1/1299.jpg,Henderson,36.01428615,-115.0384749,10,0,90,500,United States
+imgs_final_v1/1300.jpg,St. Catharines,43.18369285,-79.23484864,220,0,90,500,Canada
+imgs_final_v1/1301.jpg,Chesapeake,36.67677412,-76.3017314,255,0,90,500,United States
+imgs_final_v1/1302.jpg,Ciudad Victoria,23.7390128,-99.1441496,31,0,90,500,Mexico
+imgs_final_v1/1303.jpg,Arlington,32.70136604,-97.1250236,310,0,90,500,United States
+imgs_final_v1/1304.jpg,Killeen,31.0746608,-97.73030797,224,0,90,500,United States
+imgs_final_v1/1305.jpg,Markham,43.87713859,-79.2637311,326,0,90,500,Canada
+imgs_final_v1/1306.jpg,Veracruz,19.18883487,-96.15362847,189,0,90,500,Mexico
+imgs_final_v1/1307.jpg,Springfield,37.19395155,-93.28993327,237,0,90,500,United States
+imgs_final_v1/1308.jpg,Montgomery,32.34758155,-86.26609853,69,0,90,500,United States
+imgs_final_v1/1309.jpg,Santa Clarita,34.41767982,-118.4945365,81,0,90,500,United States
+imgs_final_v1/1310.jpg,Hebron,31.52896688,35.09799239,199,0,90,500,West Bank
+imgs_final_v1/1311.jpg,Stockton,37.97619351,-121.3111907,339,0,90,500,United States
+imgs_final_v1/1312.jpg,St. Petersburg,27.79426938,-82.66446983,319,0,90,500,United States
+imgs_final_v1/1313.jpg,Worcester,42.27183057,-71.80777047,308,0,90,500,United States
+imgs_final_v1/1314.jpg,San Juan Sacatepéquez,14.71867009,-90.64263416,154,0,90,500,Guatemala
+imgs_final_v1/1315.jpg,Greenville,34.83585696,-82.36282621,63,0,90,500,United States
+imgs_final_v1/1316.jpg,Salem,44.92393423,-123.0236972,35,0,90,500,India
+imgs_final_v1/1317.jpg,Gainesville,29.67992425,-82.34440048,279,0,90,500,United States
+imgs_final_v1/1318.jpg,Corpus Christi,27.72502971,-97.37538046,120,0,90,500,United States
+imgs_final_v1/1319.jpg,Derby,52.92498649,-1.478664689,306,0,90,500,United Kingdom
+imgs_final_v1/1320.jpg,Yonkers,40.94717779,-73.8663927,13,0,90,500,United States
+imgs_final_v1/1321.jpg,Fremont,37.52678399,-121.9861884,71,0,90,500,United States
+imgs_final_v1/1322.jpg,Myrtle Beach,33.7108182,-78.88503783,355,0,90,500,United States
+imgs_final_v1/1323.jpg,Fargo,46.86658263,-96.82876415,152,0,90,500,United States
+imgs_final_v1/1324.jpg,Reading,51.45564028,-0.973533652,325,0,90,500,United Kingdom
+imgs_final_v1/1325.jpg,Victorville,34.52847108,-117.3551461,23,0,90,500,United States
+imgs_final_v1/1326.jpg,Peoria,40.75203413,-89.61483807,43,0,90,500,United States
+imgs_final_v1/1327.jpg,Oxnard,34.19560241,-119.1826625,268,0,90,500,United States
+imgs_final_v1/1328.jpg,Cranbourne,-38.10105172,145.2837058,253,0,90,500,Australia
+imgs_final_v1/1329.jpg,Canberra,-35.29432612,149.1268541,221,0,90,500,Australia
+imgs_final_v1/1330.jpg,Manukau City,-36.99869791,174.8855494,148,0,90,500,New Zealand
+imgs_final_v1/1331.jpg,Central Coast,-33.30017052,151.2016377,78,0,90,500,Australia
+imgs_final_v1/1332.jpg,Lincoln,40.81145539,-96.67818625,268,0,90,500,United Kingdom
+imgs_final_v1/1333.jpg,Wollongong,-34.43250146,150.883605,87,0,90,500,Australia
+imgs_final_v1/1334.jpg,Scottsdale,33.6886867,-111.865055,193,0,90,500,United States
+imgs_final_v1/1335.jpg,Northcote,-36.80273307,174.7483328,203,0,90,500,New Zealand
+imgs_final_v1/1336.jpg,Legazpi City,13.12948643,123.7314099,58,0,90,500,Philippines
+imgs_final_v1/1337.jpg,Iwaki,37.05138183,140.8892865,240,0,90,500,Japan
+imgs_final_v1/1338.jpg,Panabo,7.301365253,125.6805157,212,0,90,500,Philippines
+imgs_final_v1/1339.jpg,Bitung,1.448008992,125.1984353,204,0,90,500,Indonesia
+imgs_final_v1/1340.jpg,Kızıltepe,37.19414318,40.58488404,76,0,90,500,Turkey
+imgs_final_v1/1341.jpg,Pavlodar,52.29905534,76.95165381,267,0,90,500,Kazakhstan
+imgs_final_v1/1342.jpg,Fujisawa,35.35144595,139.4665523,238,0,90,500,Japan
+imgs_final_v1/1343.jpg,Sampaloc,14.60348674,121.002824,202,0,90,500,Philippines
+imgs_final_v1/1344.jpg,Taraz,42.89944142,71.36594779,119,0,90,500,Kazakhstan
+imgs_final_v1/1345.jpg,Sirūr,18.83010183,74.38085109,90,0,90,500,India
+imgs_final_v1/1346.jpg,Yokkaichi,34.96437635,136.6254598,45,0,90,500,Japan
+imgs_final_v1/1347.jpg,Bulandshahr,28.40764624,77.84926737,101,0,90,500,India
+imgs_final_v1/1348.jpg,Marawi City,8.002414224,124.2855777,47,0,90,500,Philippines
+imgs_final_v1/1349.jpg,Toyonaka,34.78238347,135.4678538,84,0,90,500,Japan
+imgs_final_v1/1350.jpg,Nagano,36.64913532,138.1935506,265,0,90,500,Japan
+imgs_final_v1/1351.jpg,Phatthaya,12.93613733,100.8899305,176,0,90,500,Thailand
+imgs_final_v1/1352.jpg,Petropavl,54.88353117,69.16403434,289,0,90,500,Kazakhstan
+imgs_final_v1/1353.jpg,Rohtak,28.88955118,76.57871119,91,0,90,500,India
+imgs_final_v1/1354.jpg,Sultanbeyli,40.96831724,29.26024634,138,0,90,500,Turkey
+imgs_final_v1/1355.jpg,Ashdod,31.79926696,34.64845985,58,0,90,500,Israel
+imgs_final_v1/1356.jpg,Johor Bahru,1.456051053,103.7612701,136,0,90,500,Malaysia
+imgs_final_v1/1357.jpg,Calicut,11.25945126,75.7799882,176,0,90,500,India
+imgs_final_v1/1358.jpg,Matsue,35.46878979,133.0497579,116,0,90,500,Japan
+imgs_final_v1/1359.jpg,Pamplona,42.81718142,-1.651274721,58,0,90,500,Spain
+imgs_final_v1/1360.jpg,Palu,-0.893873344,119.859832,308,0,90,500,Indonesia
+imgs_final_v1/1361.jpg,Tirupati,13.65055225,79.41877742,78,0,90,500,India
+imgs_final_v1/1362.jpg,Seremban,2.723352482,101.9411107,36,0,90,500,Malaysia
+imgs_final_v1/1363.jpg,Arnavutköy,41.18662379,28.74213719,55,0,90,500,Turkey
+imgs_final_v1/1364.jpg,Fukuyama,34.48532425,133.3614453,261,0,90,500,Japan
+imgs_final_v1/1365.jpg,Saga,33.26662124,130.3016777,346,0,90,500,Japan
+imgs_final_v1/1366.jpg,Osmaniye,37.07556572,36.25139028,97,0,90,500,Turkey
+imgs_final_v1/1367.jpg,Marilao,14.75793085,120.9472419,25,0,90,500,Philippines
+imgs_final_v1/1368.jpg,San Juan,-31.53324773,-68.52673281,343,0,90,500,Philippines
+imgs_final_v1/1369.jpg,Pingzhen,24.94341566,121.2171662,185,0,90,500,Taiwan
+imgs_final_v1/1370.jpg,Batman,37.88606915,41.13105359,41,0,90,500,Turkey
+imgs_final_v1/1371.jpg,Singkawang,0.898940755,108.9836352,247,0,90,500,Indonesia
+imgs_final_v1/1372.jpg,Öskemen,49.9825941,82.6181348,242,0,90,500,Kazakhstan
+imgs_final_v1/1373.jpg,Tegal,-6.868297346,109.1363646,238,0,90,500,Indonesia
+imgs_final_v1/1374.jpg,Muzaffarpur,26.1219364,85.3911178,77,0,90,500,India
+imgs_final_v1/1375.jpg,Afyonkarahisar,38.75782117,30.53905456,179,0,90,500,Turkey
+imgs_final_v1/1376.jpg,Kawagoe,35.92477679,139.4866428,29,0,90,500,Japan
+imgs_final_v1/1377.jpg,Ichalkaranji,16.69873806,74.46929104,45,0,90,500,India
+imgs_final_v1/1378.jpg,Taoyuan District,24.9908921,121.3134045,263,0,90,500,Taiwan
+imgs_final_v1/1379.jpg,Sibu,2.288780109,111.8296394,289,0,90,500,Malaysia
+imgs_final_v1/1380.jpg,Mathura,27.49288367,77.67401145,145,0,90,500,India
+imgs_final_v1/1381.jpg,San Carlos City,15.92854576,120.3478388,321,0,90,500,Philippines
+imgs_final_v1/1382.jpg,Bhatinda,30.23035101,74.95175844,171,0,90,500,India
+imgs_final_v1/1383.jpg,Isparta,37.76535236,30.55670758,226,0,90,500,Turkey
+imgs_final_v1/1384.jpg,Takatsuki,34.84576841,135.6166214,300,0,90,500,Japan
+imgs_final_v1/1385.jpg,Yamagata,38.25685126,140.338858,15,0,90,500,Japan
+imgs_final_v1/1386.jpg,Lubuklinggau,-3.297506298,102.8607737,266,0,90,500,Indonesia
+imgs_final_v1/1387.jpg,Aksaray,38.37334696,34.02772345,332,0,90,500,Turkey
+imgs_final_v1/1388.jpg,Ellore,16.71271057,81.10275857,355,0,90,500,India
+imgs_final_v1/1389.jpg,Kahramanmaraş,37.58481592,36.933374,51,0,90,500,Turkey
+imgs_final_v1/1390.jpg,Porbandar,21.64222262,69.62818019,72,0,90,500,India
+imgs_final_v1/1391.jpg,Okazaki,34.95517439,137.1750269,152,0,90,500,Japan
+imgs_final_v1/1392.jpg,Kabankalan,9.979800105,122.8208827,133,0,90,500,Philippines
+imgs_final_v1/1393.jpg,Victoria,48.4292148,-123.3638039,164,0,90,500,Canada
+imgs_final_v1/1394.jpg,Rodriguez,14.71931843,121.120679,333,0,90,500,Philippines
+imgs_final_v1/1395.jpg,Taiping,4.848822062,100.7335555,244,0,90,500,Malaysia
+imgs_final_v1/1396.jpg,Pematangsiantar,2.959090861,99.05916846,61,0,90,500,Indonesia
+imgs_final_v1/1397.jpg,Fatehpur,27.97937144,74.95059577,180,0,90,500,India
+imgs_final_v1/1398.jpg,Hakodate,41.76795319,140.7274065,77,0,90,500,Japan
+imgs_final_v1/1399.jpg,Ichikawa,35.7215057,139.932488,352,0,90,500,Japan
+imgs_final_v1/1400.jpg,Santa Maria,14.81875367,120.9592573,69,0,90,500,Philippines
+imgs_final_v1/1401.jpg,Machida,35.55360767,139.4430492,308,0,90,500,Japan
+imgs_final_v1/1402.jpg,Minato,35.6569359,139.752636,56,0,90,500,Japan
+imgs_final_v1/1403.jpg,Khon Kaen,16.4330745,102.8323669,288,0,90,500,Thailand
+imgs_final_v1/1404.jpg,Batangas,13.82975785,121.0011429,77,0,90,500,Philippines
+imgs_final_v1/1405.jpg,Belgaum,15.84974719,74.49915548,195,0,90,500,India
+imgs_final_v1/1406.jpg,Kuching,1.557769285,110.3448846,17,0,90,500,Malaysia
+imgs_final_v1/1407.jpg,Mamuju,-2.682391047,118.899212,87,0,90,500,Indonesia
+imgs_final_v1/1408.jpg,Mabalacat,15.22041172,120.580378,132,0,90,500,Philippines
+imgs_final_v1/1409.jpg,Bandung,-6.912188508,107.6089477,351,0,90,500,Indonesia
+imgs_final_v1/1410.jpg,Quilon,8.892633694,76.61358923,297,0,90,500,India
+imgs_final_v1/1411.jpg,Ordu,40.98215549,37.88388269,315,0,90,500,Turkey
+imgs_final_v1/1412.jpg,Lipa City,13.94189308,121.1623763,164,0,90,500,Philippines
+imgs_final_v1/1413.jpg,Higashi-ōsaka,34.67998178,135.6011232,74,0,90,500,Japan
+imgs_final_v1/1414.jpg,Shibuya-ku,35.65841352,139.7016148,270,0,90,500,Japan
+imgs_final_v1/1415.jpg,Rāmnagar,27.17024915,84.31961431,280,0,90,500,India
+imgs_final_v1/1416.jpg,Dindigul,10.3512867,77.94938615,113,0,90,500,India
+imgs_final_v1/1417.jpg,Tekirdağ,40.97760765,27.51477897,28,0,90,500,Turkey
+imgs_final_v1/1418.jpg,Ibaraki,34.81774599,135.5678219,254,0,90,500,Japan
+imgs_final_v1/1419.jpg,Palangkaraya,-2.209636644,113.9203774,151,0,90,500,Indonesia
+imgs_final_v1/1420.jpg,Mito,36.36521106,140.4704547,235,0,90,500,Japan
+imgs_final_v1/1421.jpg,Jalgaon,21.00474085,75.56762008,56,0,90,500,India
+imgs_final_v1/1422.jpg,Kocaeli,40.76292521,29.91843481,356,0,90,500,Turkey
+imgs_final_v1/1423.jpg,Sakarya,40.78341223,30.39993628,53,0,90,500,Turkey
+imgs_final_v1/1424.jpg,Alwar,27.55122207,76.63597774,61,0,90,500,India
+imgs_final_v1/1425.jpg,Kure,34.24863997,132.5648635,188,0,90,500,Japan
+imgs_final_v1/1426.jpg,Kodumur,15.68344358,77.78438242,284,0,90,500,India
+imgs_final_v1/1427.jpg,Drug,21.19120759,81.27935725,311,0,90,500,India
+imgs_final_v1/1428.jpg,Kayapınar,37.94875759,40.16626955,205,0,90,500,Turkey
+imgs_final_v1/1429.jpg,São Paulo,-23.54916234,-46.63361626,315,0,90,500,Brazil
+imgs_final_v1/1430.jpg,Rio de Janeiro,-22.91085134,-43.20513649,66,0,90,500,Brazil
+imgs_final_v1/1431.jpg,Belo Horizonte,-19.91720608,-43.93173789,321,0,90,500,Brazil
+imgs_final_v1/1432.jpg,Fortaleza,-3.726541154,-38.52764729,323,0,90,500,Brazil
+imgs_final_v1/1433.jpg,San Francisco,37.75521455,-122.4442269,281,0,90,500,Philippines
+imgs_final_v1/1434.jpg,Brasília,-15.79367611,-47.8843174,201,0,90,500,Brazil
+imgs_final_v1/1435.jpg,Guayaquil,-2.189428409,-79.88671127,265,0,90,500,Ecuador
+imgs_final_v1/1436.jpg,Medellín,6.23119159,-75.5898689,3,0,90,500,Colombia
+imgs_final_v1/1437.jpg,Cali,3.420619864,-76.52193632,37,0,90,500,Colombia
+imgs_final_v1/1438.jpg,Colombo,6.934634345,79.84269261,286,0,90,500,Brazil
+imgs_final_v1/1439.jpg,Córdoba,-31.41605589,-64.18426071,339,0,90,500,Spain
+imgs_final_v1/1440.jpg,Manaus,-3.119899316,-60.02254959,219,0,90,500,Brazil
+imgs_final_v1/1441.jpg,Sacramento,38.56776728,-121.4684565,223,0,90,500,United States
+imgs_final_v1/1442.jpg,Santos,-23.9367201,-46.32473518,302,0,90,500,Brazil
+imgs_final_v1/1443.jpg,Santa Cruz,-17.79864673,-63.18311544,312,0,90,500,Spain
+imgs_final_v1/1444.jpg,Curitiba,-25.4287467,-49.27070739,52,0,90,500,Brazil
+imgs_final_v1/1445.jpg,Quito,-0.220074707,-78.51216595,85,0,90,500,Ecuador
+imgs_final_v1/1446.jpg,Valencia,39.47096067,-0.377438418,305,0,90,500,Venezuela
+imgs_final_v1/1447.jpg,Mykolaiv,46.9744365,31.99511049,303,0,90,500,Ukraine
+imgs_final_v1/1448.jpg,Mainz,49.99956091,8.271512217,175,0,90,500,Germany
+imgs_final_v1/1449.jpg,Sumy,50.91154727,34.80519568,58,0,90,500,Ukraine
+imgs_final_v1/1450.jpg,Móstoles,40.33181367,-3.867315303,95,0,90,500,Spain
+imgs_final_v1/1451.jpg,Eindhoven,51.43406719,5.483802134,249,0,90,500,Netherlands
+imgs_final_v1/1452.jpg,Solihull,52.41219132,-1.776143197,160,0,90,500,United Kingdom
+imgs_final_v1/1453.jpg,Swindon,51.56122782,-1.781569957,350,0,90,500,United Kingdom
+imgs_final_v1/1454.jpg,Catania,37.50010046,15.09110093,204,0,90,500,Italy
+imgs_final_v1/1455.jpg,Staryy Oskol,51.30114227,37.83382882,153,0,90,500,Russia
+imgs_final_v1/1456.jpg,Ternopil,49.56529586,25.59905887,268,0,90,500,Ukraine
+imgs_final_v1/1457.jpg,Cherepovets,59.11622311,37.89955241,10,0,90,500,Russia
+imgs_final_v1/1458.jpg,Mytishchi,55.91555222,37.7668718,237,0,90,500,Russia
+imgs_final_v1/1459.jpg,Ivanovo,56.99609658,40.983047,223,0,90,500,Russia
+imgs_final_v1/1460.jpg,Bologna,44.49249916,11.34302774,46,0,90,500,Italy
+imgs_final_v1/1461.jpg,Arkhangelsk,64.53282019,40.53215396,212,0,90,500,Russia
+imgs_final_v1/1462.jpg,Kaluga,54.55060775,36.28399483,22,0,90,500,Russia
+imgs_final_v1/1463.jpg,Rennes,48.11455161,-1.679195342,191,0,90,500,France
+imgs_final_v1/1464.jpg,Wiesbaden,50.08368942,8.239716806,219,0,90,500,Germany
+imgs_final_v1/1465.jpg,Vladikavkaz,43.03897577,44.67767076,301,0,90,500,Russia
+imgs_final_v1/1466.jpg,Ulan-Ude,51.83245475,107.6014054,35,0,90,500,Russia
+imgs_final_v1/1467.jpg,Košice,48.71654771,21.24848865,82,0,90,500,Slovakia
+imgs_final_v1/1468.jpg,Elche,38.26652464,-0.696444787,15,0,90,500,Spain
+imgs_final_v1/1469.jpg,Chernihiv,51.49308965,31.29393807,307,0,90,500,Ukraine
+imgs_final_v1/1470.jpg,Podolsk,55.43102273,37.54426037,36,0,90,500,Russia
+imgs_final_v1/1471.jpg,Lutsk,50.74983301,25.33433112,102,0,90,500,Ukraine
+imgs_final_v1/1472.jpg,Badalona,41.44958887,2.245407378,279,0,90,500,Spain
+imgs_final_v1/1473.jpg,Radom,51.40216804,21.15652401,155,0,90,500,Poland
+imgs_final_v1/1474.jpg,Nizhnevartovsk,60.950739,76.60163974,212,0,90,500,Russia
+imgs_final_v1/1475.jpg,Murmansk,68.97134115,33.07302526,128,0,90,500,Russia
+imgs_final_v1/1476.jpg,Yakutsk,62.0297089,129.7307743,92,0,90,500,Russia
+imgs_final_v1/1477.jpg,Piraeus,37.94354016,23.64539365,100,0,90,500,Greece
+imgs_final_v1/1478.jpg,Luton,51.87836806,-0.414562774,230,0,90,500,United Kingdom
+imgs_final_v1/1479.jpg,Irákleio,35.34089296,25.1351125,330,0,90,500,Greece
+imgs_final_v1/1480.jpg,Gijón,43.53281962,-5.699681974,105,0,90,500,Spain
+imgs_final_v1/1481.jpg,Vantaa,60.29488303,25.04150497,278,0,90,500,Finland
+imgs_final_v1/1482.jpg,Cherkasy,49.44464397,32.05825582,294,0,90,500,Ukraine
+imgs_final_v1/1483.jpg,Novorossiysk,44.71688859,37.7822379,23,0,90,500,Russia
+imgs_final_v1/1484.jpg,Syktyvkar,61.66715196,50.81632103,24,0,90,500,Russia
+imgs_final_v1/1485.jpg,Chemnitz,50.83393654,12.91790287,16,0,90,500,Germany
+imgs_final_v1/1486.jpg,Lyubertsy,55.67871539,37.8944507,51,0,90,500,Russia
+imgs_final_v1/1487.jpg,Abertawe,51.61685937,-3.952086465,218,0,90,500,United Kingdom
+imgs_final_v1/1488.jpg,Almería,36.84121771,-2.469625101,1,0,90,500,Spain
+imgs_final_v1/1489.jpg,Győr,47.68287605,17.63390147,133,0,90,500,Hungary
+imgs_final_v1/1490.jpg,Bratsk,56.11634078,101.6024643,26,0,90,500,Russia
+imgs_final_v1/1491.jpg,Saransk,54.18396169,45.18566804,130,0,90,500,Russia
+imgs_final_v1/1492.jpg,Bonn,50.73384842,7.100372392,99,0,90,500,Germany
+imgs_final_v1/1493.jpg,Engels,51.50238232,46.12092554,327,0,90,500,Russia
+imgs_final_v1/1494.jpg,Zhytomyr,50.25026791,28.66716701,125,0,90,500,Ukraine
+imgs_final_v1/1495.jpg,Bila Tserkva,49.79808591,30.11720478,201,0,90,500,Ukraine
+imgs_final_v1/1496.jpg,Vila Nova de Gaia,41.13249756,-8.615417103,113,0,90,500,Portugal
+imgs_final_v1/1497.jpg,Bergen,60.38950106,5.332141396,356,0,90,500,Norway
+imgs_final_v1/1498.jpg,Cluj-Napoca,46.766543,23.5854772,51,0,90,500,Romania
+imgs_final_v1/1499.jpg,Wilmington,34.21038066,-77.8849225,196,0,90,500,United States
+imgs_final_v1/1500.jpg,Utrecht,52.09086521,5.123135732,89,0,90,500,Netherlands
+imgs_final_v1/1501.jpg,Sochi,43.58561944,39.71873852,236,0,90,500,Russia
+imgs_final_v1/1502.jpg,Yoshkar-Ola,56.65089315,47.88264198,214,0,90,500,Russia
+imgs_final_v1/1503.jpg,Korolëv,55.91620584,37.81670339,326,0,90,500,Russia
+imgs_final_v1/1504.jpg,Almere,52.36655366,5.218924796,301,0,90,500,Netherlands
+imgs_final_v1/1505.jpg,Balashikha,55.81721932,37.96645488,267,0,90,500,Russia
+imgs_final_v1/1506.jpg,Bari,41.1259468,16.8680633,287,0,90,500,Italy
+imgs_final_v1/1507.jpg,Kaunas,54.89864799,23.88695813,356,0,90,500,Lithuania
+imgs_final_v1/1508.jpg,Laval,45.58321825,-73.75120688,210,0,90,500,Canada
+imgs_final_v1/1509.jpg,Kostroma,57.76914863,40.92765416,108,0,90,500,Russia
+imgs_final_v1/1510.jpg,Smolensk,54.78142483,32.0448409,22,0,90,500,Russia
+imgs_final_v1/1511.jpg,Kingston upon Hull,53.74304992,-0.333659965,210,0,90,500,United Kingdom
+imgs_final_v1/1512.jpg,Lublin,51.25068851,22.56858337,204,0,90,500,Poland
+imgs_final_v1/1513.jpg,Székesfehérvár,47.19496236,18.40785761,133,0,90,500,Hungary
+imgs_final_v1/1514.jpg,Wolverhampton,52.58250416,-2.135034109,64,0,90,500,United Kingdom
+imgs_final_v1/1515.jpg,Braunschweig,52.26603104,10.5162079,267,0,90,500,Germany
+imgs_final_v1/1516.jpg,Münster,51.96351741,7.626499934,336,0,90,500,Germany
+imgs_final_v1/1517.jpg,Komsomol’sk-na-Amure,50.56788041,137.0005087,209,0,90,500,Russia
+imgs_final_v1/1518.jpg,Lübeck,53.86980934,10.68667403,92,0,90,500,Germany
+imgs_final_v1/1519.jpg,Cosenza,39.30040214,16.24804423,329,0,90,500,Italy
+imgs_final_v1/1520.jpg,Christchurch,-43.53224869,172.6373701,79,0,90,500,New Zealand
+imgs_final_v1/1521.jpg,Kartal,40.88749818,29.19194221,94,0,90,500,Turkey
+imgs_final_v1/1522.jpg,Vinnytsia,49.23390791,28.48335553,353,0,90,500,Ukraine
+imgs_final_v1/1523.jpg,Surgut,61.25045433,73.43294576,50,0,90,500,Russia
+imgs_final_v1/1524.jpg,Nizhniy Tagil,57.91819499,59.96682799,69,0,90,500,Russia
+imgs_final_v1/1525.jpg,Constanţa,44.16681929,28.63366421,303,0,90,500,Romania
+imgs_final_v1/1526.jpg,Iaşi,47.16134037,27.58856462,156,0,90,500,Romania
+imgs_final_v1/1527.jpg,Ivano-Frankivsk,48.92310368,24.71217017,152,0,90,500,Ukraine
+imgs_final_v1/1528.jpg,Cork,51.89615204,-8.470338853,165,0,90,500,Ireland
+imgs_final_v1/1529.jpg,Velikiy Novgorod,58.54977184,31.26579854,24,0,90,500,Russia
+imgs_final_v1/1530.jpg,Kurgan,55.46723859,65.35213323,307,0,90,500,Russia
+imgs_final_v1/1531.jpg,Tambov,52.72305006,41.45352472,240,0,90,500,Russia
+imgs_final_v1/1532.jpg,Timişoara,45.76120751,21.22943248,273,0,90,500,Romania
+imgs_final_v1/1533.jpg,Sandnes,58.85165942,5.734313557,227,0,90,500,Norway
+imgs_final_v1/1534.jpg,Bryansk,53.23382475,34.36864044,358,0,90,500,Russia
+imgs_final_v1/1535.jpg,Rostock,54.08481383,12.13273131,335,0,90,500,Germany
+imgs_final_v1/1536.jpg,Sabadell,41.54802824,2.108727777,263,0,90,500,Spain
+imgs_final_v1/1537.jpg,Gelsenkirchen,51.51651605,7.101382435,101,0,90,500,Germany
+imgs_final_v1/1538.jpg,Kaliningrad,54.70073814,20.45121868,101,0,90,500,Russia
+imgs_final_v1/1539.jpg,Caerdydd,51.4830004,-3.18514722,232,0,90,500,United Kingdom
+imgs_final_v1/1540.jpg,Karlsruhe,49.00944074,8.405184535,131,0,90,500,Germany
+imgs_final_v1/1541.jpg,Alicante,38.34617856,-0.483862304,344,0,90,500,Spain
+imgs_final_v1/1542.jpg,Poltava,49.59018703,34.55192252,272,0,90,500,Ukraine
+imgs_final_v1/1543.jpg,Posadas,-27.36579467,-55.90058751,307,0,90,500,Argentina
+imgs_final_v1/1544.jpg,Pécs,46.07031744,18.23200575,357,0,90,500,Hungary
+imgs_final_v1/1545.jpg,Appleton,44.2780331,-88.39026678,219,0,90,500,United States
+imgs_final_v1/1546.jpg,Graz,47.07147684,15.43946535,116,0,90,500,Austria
+imgs_final_v1/1547.jpg,Augsburg,48.37014251,10.89833351,266,0,90,500,Germany
+imgs_final_v1/1548.jpg,Freiburg im Breisgau,47.99580618,7.849644368,71,0,90,500,Germany
+imgs_final_v1/1549.jpg,Magdeburg,52.13313973,11.63866671,283,0,90,500,Germany
+imgs_final_v1/1550.jpg,Katowice,50.26276549,19.02095015,291,0,90,500,Poland
+imgs_final_v1/1551.jpg,Bochum,51.48178907,7.214625069,309,0,90,500,Germany
+imgs_final_v1/1552.jpg,Laredo,27.56311496,-99.48644127,270,0,90,500,United States
+imgs_final_v1/1553.jpg,Magnitogorsk,53.38250035,59.03545276,152,0,90,500,Russia
+imgs_final_v1/1554.jpg,Barnsley,53.55388304,-1.477990651,289,0,90,500,United Kingdom
+imgs_final_v1/1555.jpg,Lille,50.62735794,3.060466087,0,0,90,500,France
+imgs_final_v1/1556.jpg,Sintra,38.79833938,-9.389622092,327,0,90,500,Portugal
+imgs_final_v1/1557.jpg,Tula,54.20066817,37.61742821,321,0,90,500,Russia
+imgs_final_v1/1558.jpg,Loures,38.83295933,-9.165566934,209,0,90,500,Portugal
+imgs_final_v1/1559.jpg,Blagoveshchensk,50.25061502,127.5312479,144,0,90,500,Russia
+imgs_final_v1/1560.jpg,Valletta,35.89782875,14.51283066,220,0,90,500,Malta
+imgs_final_v1/1561.jpg,Szczecin,53.4340016,14.54845231,28,0,90,500,Poland
+imgs_final_v1/1562.jpg,Taganrog,47.2171373,38.91469472,305,0,90,500,Russia
+imgs_final_v1/1563.jpg,Padova,45.41550344,11.86624025,357,0,90,500,Italy
+imgs_final_v1/1564.jpg,Kassel,51.31641569,9.496525022,0,0,90,500,Germany
+imgs_final_v1/1565.jpg,Braşov,45.66544764,25.61563091,0,0,90,500,Romania
+imgs_final_v1/1566.jpg,Gdańsk,54.34801263,18.64697336,174,0,90,500,Poland
+imgs_final_v1/1567.jpg,Nalchik,43.48369524,43.61592168,217,0,90,500,Russia
+imgs_final_v1/1568.jpg,Novi Sad,45.25387978,19.8432161,279,0,90,500,Serbia
+imgs_final_v1/1569.jpg,Craiova,44.33366368,23.81841342,59,0,90,500,Romania
+imgs_final_v1/1570.jpg,Debrecen,47.53102658,21.63901675,314,0,90,500,Hungary
+imgs_final_v1/1571.jpg,Khimki,55.88982369,37.44569893,109,0,90,500,Russia
+imgs_final_v1/1572.jpg,Zamora,19.98459537,-102.2826401,127,0,90,500,Spain
+imgs_final_v1/1573.jpg,Kropyvnytskyi,48.50081482,32.26845906,32,0,90,500,Ukraine
+imgs_final_v1/1574.jpg,Mannheim,49.48688394,8.466574546,221,0,90,500,Germany
+imgs_final_v1/1575.jpg,Kolpino,59.73362163,30.59823353,253,0,90,500,Russia
+imgs_final_v1/1576.jpg,Nantes,47.217991,-1.553184866,95,0,90,500,France
+imgs_final_v1/1577.jpg,Vladimir,56.12791458,40.40832549,82,0,90,500,Russia
+imgs_final_v1/1578.jpg,Gdynia,54.5186925,18.53884528,355,0,90,500,Poland
+imgs_final_v1/1579.jpg,Wuppertal,51.26587053,7.184541445,66,0,90,500,Germany
+imgs_final_v1/1580.jpg,Gent,51.05438342,3.725545371,183,0,90,500,Belgium
+imgs_final_v1/1581.jpg,Krefeld,51.33450225,6.567270447,164,0,90,500,Germany
+imgs_final_v1/1582.jpg,Dzerzhinsk,56.23456487,43.45000386,309,0,90,500,Russia
+imgs_final_v1/1583.jpg,Orël,52.96827279,36.06877012,184,0,90,500,Russia
+imgs_final_v1/1584.jpg,Charleroi,50.40090941,4.432656769,147,0,90,500,Belgium
+imgs_final_v1/1585.jpg,Varna,43.21750129,27.91504258,180,0,90,500,Bulgaria
+imgs_final_v1/1586.jpg,Aarhus,56.15650961,10.21055354,58,0,90,500,Denmark
+imgs_final_v1/1587.jpg,Kamianske,48.5166879,34.61470303,346,0,90,500,Ukraine
+imgs_final_v1/1588.jpg,Lagos,6.454213357,3.384041222,195,0,90,500,Nigeria
+imgs_final_v1/1589.jpg,Houston,29.78693868,-95.38769622,332,0,90,500,United States
+imgs_final_v1/1590.jpg,Guadalajara,20.67686193,-103.3478112,310,0,90,500,Spain
+imgs_final_v1/1591.jpg,Saint Petersburg,59.93737356,30.30675882,164,0,90,500,Russia
+imgs_final_v1/1592.jpg,Budapest,47.4927709,19.05259377,25,0,90,500,Hungary
+imgs_final_v1/1593.jpg,Kyiv,50.44943082,30.5219783,216,0,90,500,Ukraine
+imgs_final_v1/1594.jpg,Munich,48.13653551,11.57341036,213,0,90,500,Germany
+imgs_final_v1/1595.jpg,Bucharest,44.43354441,26.10436462,176,0,90,500,Romania
+imgs_final_v1/1596.jpg,Perth,-31.95469111,115.8608486,57,0,90,500,Australia
+imgs_final_v1/1597.jpg,Stockholm,59.32866421,18.06750042,35,0,90,500,Sweden
+imgs_final_v1/1598.jpg,Minsk,53.90049291,27.56665143,336,0,90,500,Belarus
+imgs_final_v1/1599.jpg,Tilburg,51.54959397,5.081482455,312,0,90,500,Netherlands
+imgs_final_v1/1600.jpg,Novosibirsk,55.05125674,82.94916198,239,0,90,500,Russia
+imgs_final_v1/1601.jpg,Sofia,42.69927246,23.329761,140,0,90,500,Bulgaria
