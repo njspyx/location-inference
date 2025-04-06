@@ -1,3 +1,5 @@
 .venv
 
 geolocation-inference-dataset
+
+inspect/logs
