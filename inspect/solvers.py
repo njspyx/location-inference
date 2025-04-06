@@ -2,7 +2,7 @@ from inspect_ai.solver import solver, Solver, TaskState, Generate
 from inspect_ai.model import ChatMessageSystem
 
 @solver
-def geolocation_prompt() -> Solver:
+def zero_shot_geolocation() -> Solver:
     """
     Custom solver to add system prompt and task instructions.
     """

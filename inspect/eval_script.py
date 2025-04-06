@@ -3,7 +3,7 @@ from inspect_ai import Task, eval, task
 from inspect_ai.solver import generate
 
 from dataset import load_geolocation_dataset
-from solver import geolocation_prompt
+from solvers import zero_shot_geolocation
 from scorer import geolocation_distance
 
 @task
@@ -22,7 +22,7 @@ def geolocation_benchmark(csv_path: str, imgs_dir: str, sample_limit: int=None) 
     # load dataset, solver, and scorer
     dataset = load_geolocation_dataset(csv_path, imgs_dir, sample_limit)
     solver = [
-        geolocation_prompt(),
+        zero_shot_geolocation(),
         generate()
     ]
     scorer = geolocation_distance()
@@ -59,4 +59,4 @@ if __name__ == "__main__":
     # print(f"City accuracy: {log.results.metrics.get('city_accuracy') * 100:.2f}%")
     
     # print(f"Inspect logs saved at: {log.path}")
-    print(f"Run `inspect view --log-dir logs --port 7575`")
+    print(f"Run `inspect view --log-dir logs --port 7575` to see results.")
